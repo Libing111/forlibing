@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/concurrency
+END
+ConcurrentEngineUsageTest.testConcurrentUsage.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/concurrency/ConcurrentEngineUsageTest.testConcurrentUsage.bpmn20.xml
+END
+CompetingJobAcquisitionTest.testCompetingJobAcquisitions.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/concurrency/CompetingJobAcquisitionTest.testCompetingJobAcquisitions.bpmn20.xml
+END
+CompetingSignalsTest.testCompetingSignals.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/concurrency/CompetingSignalsTest.testCompetingSignals.bpmn20.xml
+END
+CompetingJoinTest.testCompetingJoins.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/concurrency/CompetingJoinTest.testCompetingJoins.bpmn20.xml
+END

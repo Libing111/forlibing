@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing
+END
+MockSupportWithActivitiRuleTest.testNoOpServiceTasksAnnotation.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiRuleTest.testNoOpServiceTasksAnnotation.bpmn20.xml
+END
+MockSupportWithActivitiRuleTest.testClassDelegateStringMockSupport.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiRuleTest.testClassDelegateStringMockSupport.bpmn20.xml
+END
+MockSupportWithActivitiRuleTest.testMockedServiceTaskAnnotation.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiRuleTest.testMockedServiceTaskAnnotation.bpmn20.xml
+END
+MockSupportWithActivitiTestCaseTest.testNoOpServiceTasksAnnotation.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiTestCaseTest.testNoOpServiceTasksAnnotation.bpmn20.xml
+END
+MockSupportWithActivitiTestCaseTest.testClassDelegateStringMockSupport.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiTestCaseTest.testClassDelegateStringMockSupport.bpmn20.xml
+END
+ActivitiRuleJunit4SubclassTest.ruleUsageExample.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/ActivitiRuleJunit4SubclassTest.ruleUsageExample.bpmn20.xml
+END
+ActivitiRuleJunit4Test.ruleUsageExample.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/ActivitiRuleJunit4Test.ruleUsageExample.bpmn20.xml
+END
+MockSupportWithActivitiRuleTest.testMockedServiceTasksAnnotation.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiRuleTest.testMockedServiceTasksAnnotation.bpmn20.xml
+END
+MockSupportWithActivitiTestCaseTest.testMockedServiceTaskAnnotation.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiTestCaseTest.testMockedServiceTaskAnnotation.bpmn20.xml
+END
+MockSupportWithActivitiRuleTest.testClassDelegateMockSupport.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiRuleTest.testClassDelegateMockSupport.bpmn20.xml
+END
+MockSupportWithActivitiTestCaseTest.testMockedServiceTasksAnnotation.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiTestCaseTest.testMockedServiceTasksAnnotation.bpmn20.xml
+END
+ActivitiTestCaseTest.testSimpleProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/ActivitiTestCaseTest.testSimpleProcess.bpmn20.xml
+END
+MockSupportWithActivitiTestCaseTest.testClassDelegateMockSupport.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/testing/MockSupportWithActivitiTestCaseTest.testClassDelegateMockSupport.bpmn20.xml
+END

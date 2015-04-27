@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/el
+END
+ExpressionBeanAccessTest.testConfigurationBeanAccess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/el/ExpressionBeanAccessTest.testConfigurationBeanAccess.bpmn20.xml
+END
+activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/el/activiti.cfg.xml
+END

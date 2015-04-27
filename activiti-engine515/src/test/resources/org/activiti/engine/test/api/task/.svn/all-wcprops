@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task
+END
+TaskQueryTest.testProcessVariableValueEquals.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/TaskQueryTest.testProcessVariableValueEquals.bpmn20.xml
+END
+DelegateTaskTest.testChangeCategoryInDelegateTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/DelegateTaskTest.testChangeCategoryInDelegateTask.bpmn20.xml
+END
+TaskQueryTest.testTaskVariableValueEquals.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/TaskQueryTest.testTaskVariableValueEquals.bpmn20.xml
+END
+TaskAndVariablesQueryTest.testQuery.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/TaskAndVariablesQueryTest.testQuery.bpmn20.xml
+END
+TaskServiceTest.testCompleteWithTaskLocalParameters.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/TaskServiceTest.testCompleteWithTaskLocalParameters.bpmn20.xml
+END
+IdentityLinksProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/IdentityLinksProcess.bpmn20.xml
+END
+TaskVariablesTest.testTaskExecutionVariables.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/TaskVariablesTest.testTaskExecutionVariables.bpmn20.xml
+END
+TaskIdentityLinksTest.testDeleteCandidateUser.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/TaskIdentityLinksTest.testDeleteCandidateUser.bpmn20.xml
+END
+taskDefinitionProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/taskDefinitionProcess.bpmn20.xml
+END
+DelegateTaskTest.testGetCandidates.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/DelegateTaskTest.testGetCandidates.bpmn20.xml
+END
+TaskQueryTest.testProcessDefinition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/task/TaskQueryTest.testProcessDefinition.bpmn20.xml
+END

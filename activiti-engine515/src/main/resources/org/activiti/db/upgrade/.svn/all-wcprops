@@ -1,0 +1,617 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade
+END
+activiti.oracle.upgradestep.59.to.510.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.59.to.510.engine.sql
+END
+activiti.mysql.upgradestep.53.to.54.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.53.to.54.identity.sql
+END
+activiti.db2.upgradestep.53.to.54.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.53.to.54.identity.sql
+END
+activiti.postgres.upgradestep.50.to.51.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.50.to.51.history.sql
+END
+activiti.h2.upgradestep.53.to.54.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.53.to.54.identity.sql
+END
+activiti.mssql.upgradestep.53.to.54.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.53.to.54.engine.sql
+END
+activiti.postgres.upgradestep.52.to.53.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.52.to.53.history.sql
+END
+activiti.oracle.upgradestep.53.to.54.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.53.to.54.history.sql
+END
+activiti.oracle.upgradestep.512.to.513.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.512.to.513.history.sql
+END
+activiti.db2.upgradestep.511.to.512.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.511.to.512.history.sql
+END
+activiti.mssql.upgradestep.54.to.55.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.54.to.55.engine.sql
+END
+activiti.mysql.upgradestep.510.to.511.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.510.to.511.engine.sql
+END
+activiti.postgres.upgradestep.512.to.513.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.512.to.513.history.sql
+END
+activiti.db2.upgradestep.510.to.511.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.510.to.511.engine.sql
+END
+activiti.postgres.upgradestep.54.to.55.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.54.to.55.history.sql
+END
+activiti.h2.upgradestep.510.to.511.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.510.to.511.engine.sql
+END
+activiti.postgres.upgradestep.56.to.57.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.56.to.57.history.sql
+END
+activiti.mysql.upgradestep.514.to.515.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.514.to.515.engine.sql
+END
+activiti.mssql.upgradestep.58.to.59.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.58.to.59.engine.sql
+END
+activiti.db2.upgradestep.514.to.515.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.514.to.515.engine.sql
+END
+activiti.h2.upgradestep.514.to.515.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.514.to.515.engine.sql
+END
+activiti.mssql.upgradestep.59.to.510.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.59.to.510.history.sql
+END
+activiti.mssql.upgradestep.59.to.510.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.59.to.510.engine.sql
+END
+activiti.postgres.upgradestep.59.to.510.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.59.to.510.history.sql
+END
+activiti.mysql.upgradestep.59.to.510.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.59.to.510.engine.sql
+END
+activiti.mssql.upgradestep.53.to.54.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.53.to.54.history.sql
+END
+activiti.mssql.upgradestep.512.to.513.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.512.to.513.history.sql
+END
+activiti.h2.upgradestep.59.to.510.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.59.to.510.engine.sql
+END
+activiti.db2.upgradestep.510.to.511.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.510.to.511.history.sql
+END
+activiti.oracle.upgradestep.511.to.512.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.511.to.512.history.sql
+END
+activiti.postgres.upgradestep.511.to.512.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.511.to.512.history.sql
+END
+activiti.mysql.upgradestep.512.to.513.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.512.to.513.history.sql
+END
+activiti.mysql.upgradestep.53.to.54.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.53.to.54.history.sql
+END
+activiti.oracle.upgradestep.53.to.54.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.53.to.54.engine.sql
+END
+activiti.h2.upgradestep.53.to.54.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.53.to.54.history.sql
+END
+activiti.h2.upgradestep.512.to.513.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.512.to.513.history.sql
+END
+activiti.db2.upgradestep.54.to.55.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.54.to.55.history.sql
+END
+activiti.oracle.upgradestep.54.to.55.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.54.to.55.engine.sql
+END
+activiti.db2.upgradestep.514.to.515.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.514.to.515.history.sql
+END
+activiti.db2.upgradestep.56.to.57.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.56.to.57.history.sql
+END
+activiti.oracle.upgradestep.58.to.59.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.58.to.59.engine.sql
+END
+activiti.mssql.upgradestep.53.to.54.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.53.to.54.identity.sql
+END
+activiti.oracle.upgradestep.59.to.510.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.59.to.510.history.sql
+END
+activiti.postgres.upgradestep.59.to.510.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.59.to.510.engine.sql
+END
+activiti.mssql.upgradestep.511.to.512.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.511.to.512.history.sql
+END
+activiti.postgres.upgradestep.53.to.54.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.53.to.54.identity.sql
+END
+activiti.oracle.upgradestep.50.to.51.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.50.to.51.history.sql
+END
+activiti.mssql.upgradestep.510.to.511.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.510.to.511.engine.sql
+END
+activiti.oracle.upgradestep.510.to.511.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.510.to.511.history.sql
+END
+activiti.postgres.upgradestep.510.to.511.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.510.to.511.history.sql
+END
+activiti.oracle.upgradestep.52.to.53.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.52.to.53.history.sql
+END
+activiti.mysql.upgradestep.511.to.512.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.511.to.512.history.sql
+END
+activiti.postgres.upgradestep.53.to.54.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.53.to.54.history.sql
+END
+activiti.postgres.upgradestep.510.to.511.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.510.to.511.engine.sql
+END
+activiti.oracle.upgradestep.54.to.55.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.54.to.55.history.sql
+END
+activiti.h2.upgradestep.511.to.512.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.511.to.512.history.sql
+END
+activiti.h2.upgradestep.50.to.51.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.50.to.51.engine.sql
+END
+activiti.mssql.upgradestep.514.to.515.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.514.to.515.engine.sql
+END
+activiti.oracle.upgradestep.514.to.515.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.514.to.515.history.sql
+END
+activiti.mysql.upgradestep.53.to.54.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.53.to.54.engine.sql
+END
+activiti.postgres.upgradestep.53.to.54.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.53.to.54.engine.sql
+END
+activiti.postgres.upgradestep.514.to.515.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.514.to.515.history.sql
+END
+activiti.db2.upgradestep.53.to.54.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.53.to.54.engine.sql
+END
+activiti.mysql.upgradestep.54.to.55.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.54.to.55.engine.sql
+END
+activiti.oracle.upgradestep.56.to.57.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.56.to.57.history.sql
+END
+activiti.postgres.upgradestep.54.to.55.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.54.to.55.engine.sql
+END
+activiti.db2.upgradestep.54.to.55.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.54.to.55.engine.sql
+END
+activiti.h2.upgradestep.53.to.54.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.53.to.54.engine.sql
+END
+activiti.postgres.upgradestep.514.to.515.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.514.to.515.engine.sql
+END
+activiti.h2.upgradestep.54.to.55.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.54.to.55.engine.sql
+END
+activiti.mysql.upgradestep.58.to.59.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.58.to.59.engine.sql
+END
+activiti.postgres.upgradestep.58.to.59.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.postgres.upgradestep.58.to.59.engine.sql
+END
+activiti.db2.upgradestep.58.to.59.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.58.to.59.engine.sql
+END
+activiti.h2.upgradestep.58.to.59.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.58.to.59.engine.sql
+END
+activiti.mysql55.upgradestep.514.to.515.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql55.upgradestep.514.to.515.engine.sql
+END
+activiti.mysql.upgradestep.59.to.510.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.59.to.510.history.sql
+END
+activiti.db2.upgradestep.59.to.510.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.59.to.510.history.sql
+END
+activiti.mssql.upgradestep.510.to.511.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.510.to.511.history.sql
+END
+activiti.h2.upgradestep.59.to.510.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.59.to.510.history.sql
+END
+activiti.mssql.upgradestep.52.to.53.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.52.to.53.history.sql
+END
+activiti.oracle.upgradestep.53.to.54.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.53.to.54.identity.sql
+END
+activiti.db2.upgradestep.59.to.510.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.59.to.510.engine.sql
+END
+activiti.mysql.upgradestep.50.to.51.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.50.to.51.history.sql
+END
+activiti.mysql.upgradestep.510.to.511.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.510.to.511.history.sql
+END
+activiti.mssql.upgradestep.54.to.55.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.54.to.55.history.sql
+END
+activiti.mysql.upgradestep.52.to.53.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.52.to.53.history.sql
+END
+activiti.mssql.upgradestep.514.to.515.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.514.to.515.history.sql
+END
+activiti.h2.upgradestep.50.to.51.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.50.to.51.history.sql
+END
+activiti.mssql.upgradestep.56.to.57.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mssql.upgradestep.56.to.57.history.sql
+END
+activiti.h2.upgradestep.510.to.511.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.510.to.511.history.sql
+END
+activiti.oracle.upgradestep.510.to.511.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.510.to.511.engine.sql
+END
+activiti.mysql.upgradestep.54.to.55.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.54.to.55.history.sql
+END
+activiti.db2.upgradestep.53.to.54.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.53.to.54.history.sql
+END
+activiti.db2.upgradestep.512.to.513.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.db2.upgradestep.512.to.513.history.sql
+END
+activiti.h2.upgradestep.52.to.53.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.52.to.53.history.sql
+END
+activiti.mysql.upgradestep.514.to.515.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.514.to.515.history.sql
+END
+activiti.mysql.upgradestep.56.to.57.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql.upgradestep.56.to.57.history.sql
+END
+activiti.h2.upgradestep.54.to.55.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.54.to.55.history.sql
+END
+activiti.h2.upgradestep.514.to.515.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.514.to.515.history.sql
+END
+activiti.oracle.upgradestep.514.to.515.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.oracle.upgradestep.514.to.515.engine.sql
+END
+activiti.h2.upgradestep.56.to.57.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.h2.upgradestep.56.to.57.history.sql
+END
+activiti.mysql55.upgradestep.514.to.515.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/upgrade/activiti.mysql55.upgradestep.514.to.515.history.sql
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/proper-uip-dev/!svn/ver/680/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/extension
+END
+UserCategoryInactivationExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/extension/UserCategoryInactivationExtension.java
+END
+RoleCategoryInactivationExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/extension/RoleCategoryInactivationExtension.java
+END
+RaCategoryInactivationExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/extension/RaCategoryInactivationExtension.java
+END
+ResourceCategoryInactivationExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/extension/ResourceCategoryInactivationExtension.java
+END
+RoleFilterRuleExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/680/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/extension/RoleFilterRuleExtension.java
+END

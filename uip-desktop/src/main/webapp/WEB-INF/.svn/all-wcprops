@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/proper-uip-dev/!svn/ver/348/branches/UIP5-4AH/uip-desktop/src/main/webapp/WEB-INF
+END
+urlrewrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-desktop/src/main/webapp/WEB-INF/urlrewrite.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/proper-uip-dev/!svn/ver/478/branches/UIP5-4AH/uip-desktop/src/main/webapp/WEB-INF/web.xml
+END

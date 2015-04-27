@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment
+END
+BpmnDeploymentTest.testMultipleDiagramResourcesProvided.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testMultipleDiagramResourcesProvided.bpmn20.xml
+END
+BpmnDeploymentTest.testMultipleDiagramResourcesProvided.a.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testMultipleDiagramResourcesProvided.a.jpg
+END
+BpmnDeploymentTest.testMultipleDiagramResourcesProvided.b.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testMultipleDiagramResourcesProvided.b.jpg
+END
+BpmnDeploymentTest.testProcessDefinitionDescription.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testProcessDefinitionDescription.bpmn20.xml
+END
+BpmnDeploymentTest.testProcessDiagramResource.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testProcessDiagramResource.bpmn20.xml
+END
+processWithLongId.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/processWithLongId.bpmn20.xml
+END
+BpmnDeploymentTest.testMultipleDiagramResourcesProvided.c.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testMultipleDiagramResourcesProvided.c.jpg
+END
+BpmnDeploymentTest.testProcessDiagramResource.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testProcessDiagramResource.jpg
+END
+BpmnDeploymentTest.testGetBpmnXmlFileThroughService.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testGetBpmnXmlFileThroughService.bpmn20.xml
+END
+BpmnDeploymentTest.testGetBpmnXmlFileThroughService2.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testGetBpmnXmlFileThroughService2.bpmn20.xml
+END
+BpmnDeploymentTest.testInvalidExpression.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/deployment/BpmnDeploymentTest.testInvalidExpression.bpmn20.xml
+END

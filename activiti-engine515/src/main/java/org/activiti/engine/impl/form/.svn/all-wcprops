@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form
+END
+DoubleFormType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/DoubleFormType.java
+END
+FormHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/FormHandler.java
+END
+TaskFormDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/TaskFormDataImpl.java
+END
+DateFormType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/DateFormType.java
+END
+BooleanFormType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/BooleanFormType.java
+END
+FormPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/FormPropertyHandler.java
+END
+DefaultFormHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/DefaultFormHandler.java
+END
+JuelFormEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/JuelFormEngine.java
+END
+TaskVariableMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/TaskVariableMapper.java
+END
+FormDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/FormDataImpl.java
+END
+StartFormHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/StartFormHandler.java
+END
+FormReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/FormReference.java
+END
+DefaultStartFormHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/DefaultStartFormHandler.java
+END
+TaskFormHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/TaskFormHandler.java
+END
+LongFormType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/LongFormType.java
+END
+FormTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/FormTypes.java
+END
+TaskElContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/TaskElContext.java
+END
+FormEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/FormEngine.java
+END
+DefaultTaskFormHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/DefaultTaskFormHandler.java
+END
+FormPropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/FormPropertyImpl.java
+END
+EnumFormType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/EnumFormType.java
+END
+StringFormType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/StringFormType.java
+END
+FormData.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/FormData.java
+END
+StartFormDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/form/StartFormDataImpl.java
+END

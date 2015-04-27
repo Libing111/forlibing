@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/XML.java
+END
+JSONString.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/JSONString.java
+END
+JSONObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/JSONObject.java
+END
+JSONTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/JSONTokener.java
+END
+JSONML.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/JSONML.java
+END
+CDL.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/CDL.java
+END
+CookieList.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/CookieList.java
+END
+JSONWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/JSONWriter.java
+END
+HTTPTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/HTTPTokener.java
+END
+JSONArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/JSONArray.java
+END
+Cookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/Cookie.java
+END
+HTTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/HTTP.java
+END
+JSONStringer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/JSONStringer.java
+END
+XMLTokener.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/XMLTokener.java
+END
+JSONException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/util/json/JSONException.java
+END

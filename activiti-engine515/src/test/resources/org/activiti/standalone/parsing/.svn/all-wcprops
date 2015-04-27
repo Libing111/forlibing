@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing
+END
+bpmn.parse.listener.activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/bpmn.parse.listener.activiti.cfg.xml
+END
+BPMNParseHandlerTest.testAlterProcessDefinitionKeyWhenDeploying.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/BPMNParseHandlerTest.testAlterProcessDefinitionKeyWhenDeploying.bpmn20.xml
+END
+CustomDefaultBpmnParseHandlerTest.testCustomDefaultUserTaskParsing.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/CustomDefaultBpmnParseHandlerTest.testCustomDefaultUserTaskParsing.bpmn20.xml
+END
+custom.activitybehaviorfactory.activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/custom.activitybehaviorfactory.activiti.cfg.xml
+END
+CustomActivityBehaviorFactoryTest.testCustomActivityBehaviorFactory.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/CustomActivityBehaviorFactoryTest.testCustomActivityBehaviorFactory.bpmn20.xml
+END
+chinese.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/chinese.bpmn
+END
+custom.default.parse.handler.activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/custom.default.parse.handler.activiti.cfg.xml
+END
+CustomListenerFactoryTest.testCustomListenerFactory.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/CustomListenerFactoryTest.testCustomListenerFactory.bpmn20.xml
+END
+custom.listenerfactory.activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/custom.listenerfactory.activiti.cfg.xml
+END
+encoding.activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/parsing/encoding.activiti.cfg.xml
+END

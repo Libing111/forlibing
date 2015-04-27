@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/Resolver.java
+END
+VariableScopeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/VariableScopeResolver.java
+END
+BeansResolverFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/BeansResolverFactory.java
+END
+JuelScriptEngineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/JuelScriptEngineFactory.java
+END
+ScriptBindings.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/ScriptBindings.java
+END
+ResolverFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/ResolverFactory.java
+END
+VariableScopeResolverFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/VariableScopeResolverFactory.java
+END
+JuelScriptEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/JuelScriptEngine.java
+END
+ScriptBindingsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/ScriptBindingsFactory.java
+END
+ScriptCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/ScriptCondition.java
+END
+ScriptingEngines.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/scripting/ScriptingEngines.java
+END

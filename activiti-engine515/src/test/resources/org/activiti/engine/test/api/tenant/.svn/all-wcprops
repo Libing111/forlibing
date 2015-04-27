@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/tenant
+END
+TenancyTest.testMessageTenancy.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/tenant/TenancyTest.testMessageTenancy.bpmn20.xml
+END
+TenancyTest.testJobTenancy.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/tenant/TenancyTest.testJobTenancy.bpmn20.xml
+END
+TenancyTest.testStartProcessInstanceBySignalTenancy.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/tenant/TenancyTest.testStartProcessInstanceBySignalTenancy.bpmn20.xml
+END
+TenancyTest.testMultiTenancySignals.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/tenant/TenancyTest.testMultiTenancySignals.bpmn20.xml
+END

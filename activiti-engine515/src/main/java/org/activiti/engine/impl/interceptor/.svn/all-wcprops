@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor
+END
+LogInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/LogInterceptor.java
+END
+CommandContextInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/CommandContextInterceptor.java
+END
+JtaTransactionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/JtaTransactionInterceptor.java
+END
+CommandConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/CommandConfig.java
+END
+SessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/SessionFactory.java
+END
+CommandContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/CommandContextFactory.java
+END
+CommandInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/CommandInvoker.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/Command.java
+END
+AbstractCommandInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/AbstractCommandInterceptor.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/Session.java
+END
+JtaRetryInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/JtaRetryInterceptor.java
+END
+CommandContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/CommandContext.java
+END
+RetryInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/RetryInterceptor.java
+END
+DelegateInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/DelegateInterceptor.java
+END
+CommandInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/CommandInterceptor.java
+END
+CommandExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/interceptor/CommandExecutor.java
+END

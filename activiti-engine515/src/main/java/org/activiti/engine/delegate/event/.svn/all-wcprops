@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event
+END
+BaseEntityEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/BaseEntityEventListener.java
+END
+ActivitiEventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiEventType.java
+END
+ActivitiMessageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiMessageEvent.java
+END
+ActivitiEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiEventListener.java
+END
+ActivitiVariableEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiVariableEvent.java
+END
+ActivitiEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiEventDispatcher.java
+END
+ActivitiErrorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiErrorEvent.java
+END
+ActivitiMembershipEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiMembershipEvent.java
+END
+ActivitiActivityEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiActivityEvent.java
+END
+ActivitiEntityEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiEntityEvent.java
+END
+ActivitiSignalEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiSignalEvent.java
+END
+ActivitiExceptionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiExceptionEvent.java
+END
+ActivitiEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/delegate/event/ActivitiEvent.java
+END

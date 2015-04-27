@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/definitions/dao
+END
+TaskDefinitionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/definitions/dao/TaskDefinitionDao.java
+END
+ScenarioCategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/definitions/dao/ScenarioCategoryDao.java
+END
+TaskStepsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/definitions/dao/TaskStepsDao.java
+END
+ProcessDefinitionManagementDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/definitions/dao/ProcessDefinitionManagementDao.java
+END
+BpmMonitorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/definitions/dao/BpmMonitorDao.java
+END
+BpmAssignmentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/definitions/dao/BpmAssignmentDao.java
+END
+ProcessDefinitionsCategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/definitions/dao/ProcessDefinitionsCategoryDao.java
+END
+ProcessDefinitionOrganizationRelationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/definitions/dao/ProcessDefinitionOrganizationRelationDao.java
+END

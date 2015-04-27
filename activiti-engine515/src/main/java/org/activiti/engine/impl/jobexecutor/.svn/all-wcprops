@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor
+END
+AsyncContinuationJobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/AsyncContinuationJobHandler.java
+END
+RejectedJobsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/RejectedJobsHandler.java
+END
+GetUnlockedTimersByDuedateCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/GetUnlockedTimersByDuedateCmd.java
+END
+FailedJobCommandFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/FailedJobCommandFactory.java
+END
+ExecuteJobsRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/ExecuteJobsRunnable.java
+END
+TimerActivateProcessDefinitionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/TimerActivateProcessDefinitionHandler.java
+END
+JobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/JobHandler.java
+END
+TimerDeclarationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/TimerDeclarationImpl.java
+END
+ProcessEventJobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/ProcessEventJobHandler.java
+END
+TimerCatchIntermediateEventJobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/TimerCatchIntermediateEventJobHandler.java
+END
+DefaultFailedJobCommandFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/DefaultFailedJobCommandFactory.java
+END
+AcquiredJobs.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/AcquiredJobs.java
+END
+TimerExecuteNestedActivityJobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/TimerExecuteNestedActivityJobHandler.java
+END
+MessageAddedNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/MessageAddedNotification.java
+END
+TimerChangeProcessDefinitionSuspensionStateJobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/TimerChangeProcessDefinitionSuspensionStateJobHandler.java
+END
+FailedJobListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/FailedJobListener.java
+END
+TimerDeclarationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/TimerDeclarationType.java
+END
+TimerSuspendProcessDefinitionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/TimerSuspendProcessDefinitionHandler.java
+END
+JobExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/JobExecutor.java
+END
+TimerStartEventJobHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/TimerStartEventJobHandler.java
+END
+ExclusiveJobAddedNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/ExclusiveJobAddedNotification.java
+END
+CallerRunsRejectedJobsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/CallerRunsRejectedJobsHandler.java
+END
+JobExecutorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/JobExecutorContext.java
+END
+DefaultJobExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/DefaultJobExecutor.java
+END
+AcquireJobsRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/jobexecutor/AcquireJobsRunnable.java
+END

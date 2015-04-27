@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/gateway
+END
+InclusiveGatewayTestOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTestOrder.java
+END
+EventBasedGatewayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/gateway/EventBasedGatewayTest.java
+END
+InclusiveGatewayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.java
+END
+ExclusiveGatewayTestOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTestOrder.java
+END
+ExclusiveGatewayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.java
+END
+ParallelGatewayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.java
+END

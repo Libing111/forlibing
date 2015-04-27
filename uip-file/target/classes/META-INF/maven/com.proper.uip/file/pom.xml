@@ -1,0 +1,125 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.proper.uip</groupId>
+		<artifactId>proper-uip-root</artifactId>
+		<relativePath>../proper-uip-root</relativePath>
+		<version>3.0-SNAPSHOT</version>
+	</parent>
+	
+	<name>file</name>
+	<groupId>com.proper.uip</groupId>
+	<artifactId>file</artifactId>
+	<packaging>jar</packaging>
+	
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-orm</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context-support</artifactId>
+		</dependency>
+
+
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-ehcache</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+		</dependency>		
+	  <dependency>
+			<groupId>jstl</groupId>
+			<artifactId>jstl</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.tuckey</groupId>
+			<artifactId>urlrewritefilter</artifactId>
+		</dependency>
+
+		<dependency>  
+    		<groupId>org.codehaus.jackson</groupId>  
+    		<artifactId>jackson-core-asl</artifactId>
+		</dependency>  
+		<dependency>  
+    		<groupId>org.codehaus.jackson</groupId>  
+    		<artifactId>jackson-mapper-lgpl</artifactId> 
+		</dependency>
+
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<exclusions>
+				<exclusion>
+					<groupId>com.sun.jdmk</groupId>
+					<artifactId>jmxtools</artifactId>
+				</exclusion>
+				<exclusion>
+					<groupId>javax.jms</groupId>
+					<artifactId>jms</artifactId>
+				</exclusion>
+				<exclusion>
+					<groupId>com.sun.jmx</groupId>
+					<artifactId>jmxri</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-simple</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>commons-logging</groupId>
+			<artifactId>commons-logging</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>commons-lang</groupId>
+  			<artifactId>commons-lang</artifactId>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.proper.uip</groupId>
+			<artifactId>uip-common-utils</artifactId>
+		</dependency>
+						 
+		<dependency>
+			<groupId>com.proper.uip</groupId>
+			<artifactId>uip-file-api</artifactId>
+			<version>3.0-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.proper.uip</groupId>
+			<artifactId>uip-file-common</artifactId>
+			<version>3.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.proper.uip</groupId>
+			<artifactId>uip-security-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.proper.uip</groupId>
+			<artifactId>uip-security-common</artifactId>
+		</dependency>
+		
+	</dependencies>
+
+	<scm>
+		<connection>scm:svn:https://svn.proper.com:8443/svn/proper-uip-dev/trunk/uip-security/</connection>  
+		<developerConnection>scm:svn:https://svn.proper.com:8443/svn/proper-uip-dev/trunk/uip-security/</developerConnection>
+	</scm>
+</project>

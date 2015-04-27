@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal
+END
+SignalEventTest.testNonInterruptingSignalWithSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testNonInterruptingSignalWithSubProcess.bpmn20.xml
+END
+SignalEventTest.testAsyncTriggeredSignalEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testAsyncTriggeredSignalEvent.bpmn20.xml
+END
+SignalEventTests.signalNoId.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.signalNoId.bpmn20.xml
+END
+SignalEventTests.throwAbortSignal.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.throwAbortSignal.bpmn20.xml
+END
+SignalEventTests.throwAlertSignal.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.throwAlertSignal.bpmn20.xml
+END
+SignalEventTests.duplicateSignalNames.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.duplicateSignalNames.bpmn20.xml
+END
+SignalEventTests.catchAlertSignalBoundaryWithReceiveTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.catchAlertSignalBoundaryWithReceiveTask.bpmn20.xml
+END
+SignalEventTests.throwAlertSignalAsynch.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.throwAlertSignalAsynch.bpmn20.xml
+END
+SignalEventTest.testSignalWithGlobalScope.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testSignalWithGlobalScope.bpmn20.xml
+END
+SignalEventTest.testEarlyFinishedProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testEarlyFinishedProcess.bpmn20.xml
+END
+SignalEventTest.testSignalWithProcessInstanceScope.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testSignalWithProcessInstanceScope.bpmn20.xml
+END
+SignalEventTest.testSignalBoundaryOnSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testSignalBoundaryOnSubProcess.bpmn20.xml
+END
+SignalEventTest.testUseSignalForExceptionsBetweenParallelPaths.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testUseSignalForExceptionsBetweenParallelPaths.bpmn20.xml
+END
+SignalEventTests.signalNoRef.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.signalNoRef.bpmn20.xml
+END
+SignalEventTests.catchAlertSignal.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.catchAlertSignal.bpmn20.xml
+END
+SignalEventTest.testSignalStartEventAsync.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testSignalStartEventAsync.bpmn20.xml
+END
+SignalEventTest.testSignalStartEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testSignalStartEvent.bpmn20.xml
+END
+SignalEventTests.noSignalName.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.noSignalName.bpmn20.xml
+END
+SignalEventTests.catchAlertSignalBoundary.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.catchAlertSignalBoundary.bpmn20.xml
+END
+SignalEventTest.testSignalUserTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testSignalUserTask.bpmn20.xml
+END
+SignalEventTests.catchMultipleSignals.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTests.catchMultipleSignals.bpmn20.xml
+END
+SignalEventTest.testNonInterruptingSignal.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/signal/SignalEventTest.testNonInterruptingSignal.bpmn20.xml
+END

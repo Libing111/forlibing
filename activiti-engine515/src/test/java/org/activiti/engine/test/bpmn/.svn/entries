@@ -1,0 +1,107 @@
+10
+
+dir
+343
+https://192.168.1.150:8443/svn/proper-uip-dev/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn
+https://192.168.1.150:8443/svn/proper-uip-dev
+
+
+
+2014-11-12T03:46:07.657934Z
+341
+libing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4c894646-b7a8-c249-a43d-8bea82e427c2
+
+multiinstance
+dir
+
+deployment
+dir
+
+java
+dir
+
+event
+dir
+
+mail
+dir
+
+servicetask
+dir
+
+subprocess
+dir
+
+callactivity
+dir
+
+parallel
+dir
+
+sequenceflow
+dir
+
+usertask
+dir
+
+gateway
+dir
+
+exclusive
+dir
+
+StartToEndTest.java
+file
+
+
+
+
+2014-11-12T06:14:38.462812Z
+f52d116bf520dd31eb50097e2bda8f6b
+2014-11-12T03:46:07.657934Z
+341
+libing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1102
+
+parse
+dir
+
+async
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/proper-uip-dev/!svn/ver/801/branches/UIP5-4AH/uip-security/src/main/webapp/WEB-INF/pages/role/roleCategory
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/proper-uip-dev/!svn/ver/801/branches/UIP5-4AH/uip-security/src/main/webapp/WEB-INF/pages/role/roleCategory/index.jsp
+END
+add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/proper-uip-dev/!svn/ver/801/branches/UIP5-4AH/uip-security/src/main/webapp/WEB-INF/pages/role/roleCategory/add.jsp
+END
+update.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/proper-uip-dev/!svn/ver/801/branches/UIP5-4AH/uip-security/src/main/webapp/WEB-INF/pages/role/roleCategory/update.jsp
+END

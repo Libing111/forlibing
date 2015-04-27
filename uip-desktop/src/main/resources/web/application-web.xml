@@ -1,0 +1,98 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc" 
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/mvc 
+       http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd"
+       default-autowire="byName">
+    <!--mvc:default-servlet-handler/-->
+    <mvc:resources mapping="/system/**" location="/system/" cache-period="31556926"/>
+    <mvc:resources mapping="/libs/**" location="/libs/" cache-period="31556926"/>
+    <mvc:resources mapping="/sample_skin/**" location="/sample_skin/" cache-period="31556926"/>
+    <mvc:resources mapping="/sample_fast/**" location="/sample_fast/" cache-period="31556926"/>
+    <mvc:resources mapping="/sample_html/**" location="/sample_html/" cache-period="31556926"/>
+    <mvc:resources mapping="/uploadFiles/**" location="/uploadFiles/" cache-period="31556926"/>
+    
+    <context:component-scan base-package="com.proper">
+        <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller" />
+        <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Service" />
+    </context:component-scan>
+    <bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping"/>
+    <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
+    	 <property name="messageConverters">
+            <list>
+                 <bean class="org.springframework.http.converter.json.MappingJacksonHttpMessageConverter"/>
+            </list>
+        </property>
+	</bean>
+	<!-- before Spring 3.1
+    <bean class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver">
+        <property name="ignoreAcceptHeader" value="false"/>
+        <property name="defaultContentType" value="text/html"/>
+
+        <property name="mediaTypes">
+            <map>
+                <entry key="json" value="application/json"/>
+                <entry key="xml" value="application/xml"/>
+            </map>
+        </property>
+
+        <property name="favorParameter" value="false"/>
+        <property name="viewResolvers">
+            <list>
+                <bean class="org.springframework.web.servlet.view.BeanNameViewResolver"/>
+                <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+                    <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
+                    <property name="prefix" value="/WEB-INF/pages/"/>
+                    <property name="suffix" value=".jsp"/>
+                </bean>
+            </list>
+        </property>
+        <property name="defaultViews">
+            <list>
+
+                <bean class="org.springframework.web.servlet.view.json.MappingJacksonJsonView"/>
+
+            </list>
+        </property>
+    </bean>
+     --> 
+     
+    <bean class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver">
+        <property name="contentNegotiationManager">
+            <bean class="org.springframework.web.accept.ContentNegotiationManagerFactoryBean">
+                <!-- 
+                <property name="ignoreAcceptHeader" value="true"/>
+                <property name="defaultContentType" value="application/json"/>
+                 -->
+                <property name="mediaTypes">
+                    <map>
+                        <entry key="xml" value="text/html"/>
+                        <entry key="json" value="application/json"/>
+                    </map>
+                </property>
+            </bean>
+        </property>
+ 
+        <property name="viewResolvers">
+            <list>
+                <bean class="org.springframework.web.servlet.view.BeanNameViewResolver"/>
+                <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+                    <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
+                    <property name="prefix" value="/WEB-INF/pages/"/>
+                    <property name="suffix" value=".jsp"/>
+                </bean>
+            </list>
+        </property>
+        <property name="defaultViews">
+            <list>
+                <bean class="org.springframework.web.servlet.view.json.MappingJacksonJsonView"/>
+            </list>
+        </property>
+    </bean>
+</beans>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/tasks/assignee
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/tasks/assignee/index.jsp
+END
+onView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/proper-uip-dev/!svn/ver/915/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/tasks/assignee/onView.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/proper-uip-dev/!svn/ver/895/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/tasks/assignee/home.jsp
+END
+statistics.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/tasks/assignee/statistics.jsp
+END
+category.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/tasks/assignee/category.jsp
+END

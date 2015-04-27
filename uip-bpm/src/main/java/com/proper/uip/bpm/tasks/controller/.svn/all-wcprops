@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/tasks/controller
+END
+BpmTasksByCategoryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/767/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/tasks/controller/BpmTasksByCategoryController.java
+END
+BpmTasksStepManagementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/tasks/controller/BpmTasksStepManagementController.java
+END
+BpmTasksCandidateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/667/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/tasks/controller/BpmTasksCandidateController.java
+END
+BpmTasksAssigneeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/999/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/tasks/controller/BpmTasksAssigneeController.java
+END
+BpmTasksController.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/tasks/controller/BpmTasksController.java
+END
+BpmTasksHistoryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/tasks/controller/BpmTasksHistoryController.java
+END
+BpmTasksStartedByMeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/999/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/tasks/controller/BpmTasksStartedByMeController.java
+END

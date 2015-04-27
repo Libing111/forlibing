@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl
+END
+NativeDeploymentQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeDeploymentQueryImpl.java
+END
+AbstractNativeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/AbstractNativeQuery.java
+END
+ProcessEngineInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ProcessEngineInfoImpl.java
+END
+HistoricTaskInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricTaskInstanceQueryImpl.java
+END
+FormServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/FormServiceImpl.java
+END
+NativeProcessDefinitionQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeProcessDefinitionQueryImpl.java
+END
+EventSubscriptionQueryValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/EventSubscriptionQueryValue.java
+END
+ManagementServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ManagementServiceImpl.java
+END
+HistoricProcessInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricProcessInstanceQueryImpl.java
+END
+HistoricActivityInstanceQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricActivityInstanceQueryProperty.java
+END
+EventSubscriptionQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/EventSubscriptionQueryProperty.java
+END
+NativeTaskQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeTaskQueryImpl.java
+END
+QueryOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/QueryOperator.java
+END
+ProcessDefinitionQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ProcessDefinitionQueryProperty.java
+END
+RuntimeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/RuntimeServiceImpl.java
+END
+NativeHistoricProcessInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeHistoricProcessInstanceQueryImpl.java
+END
+AbstractQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/AbstractQuery.java
+END
+SchemaOperationProcessEngineClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/SchemaOperationProcessEngineClose.java
+END
+ProcessInstanceQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ProcessInstanceQueryProperty.java
+END
+ProcessInstanceHistoryLogQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ProcessInstanceHistoryLogQueryImpl.java
+END
+HistoricDetailQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricDetailQueryProperty.java
+END
+GroupQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/GroupQueryImpl.java
+END
+NativeHistoricActivityInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeHistoricActivityInstanceQueryImpl.java
+END
+ModelQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ModelQueryImpl.java
+END
+SchemaOperationsProcessEngineBuild.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/SchemaOperationsProcessEngineBuild.java
+END
+UserQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/UserQueryProperty.java
+END
+TaskQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/TaskQueryImpl.java
+END
+HistoricVariableInstanceQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricVariableInstanceQueryProperty.java
+END
+ExecutionQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ExecutionQueryImpl.java
+END
+DeploymentQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/DeploymentQueryProperty.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/package.html
+END
+ServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ServiceImpl.java
+END
+TaskQueryVariableValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/TaskQueryVariableValue.java
+END
+IdentityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/IdentityServiceImpl.java
+END
+NativeUserQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeUserQueryImpl.java
+END
+EventSubscriptionQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/EventSubscriptionQueryImpl.java
+END
+HistoricActivityInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricActivityInstanceQueryImpl.java
+END
+NativeHistoricVariableInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeHistoricVariableInstanceQueryImpl.java
+END
+ProcessDefinitionQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ProcessDefinitionQueryImpl.java
+END
+HistoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoryServiceImpl.java
+END
+JobQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/JobQueryProperty.java
+END
+ProcessInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ProcessInstanceQueryImpl.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/Page.java
+END
+HistoricDetailQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricDetailQueryImpl.java
+END
+AbstractVariableQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/AbstractVariableQueryImpl.java
+END
+NativeProcessInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeProcessInstanceQueryImpl.java
+END
+RepositoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/RepositoryServiceImpl.java
+END
+UserQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/UserQueryImpl.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/Condition.java
+END
+ProcessEngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ProcessEngineImpl.java
+END
+HistoricVariableInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricVariableInstanceQueryImpl.java
+END
+HistoricTaskInstanceQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricTaskInstanceQueryProperty.java
+END
+DeploymentQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/DeploymentQueryImpl.java
+END
+TablePageQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/TablePageQueryImpl.java
+END
+HistoricProcessInstanceQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/HistoricProcessInstanceQueryProperty.java
+END
+TaskServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/TaskServiceImpl.java
+END
+QueryVariableValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/QueryVariableValue.java
+END
+ProcessInstanceHistoryLogImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ProcessInstanceHistoryLogImpl.java
+END
+NativeGroupQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeGroupQueryImpl.java
+END
+NativeHistoricTaskInstanceQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeHistoricTaskInstanceQueryImpl.java
+END
+NativeModelQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeModelQueryImpl.java
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/Direction.java
+END
+JobQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/JobQueryImpl.java
+END
+NativeExecutionQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeExecutionQueryImpl.java
+END
+NativeHistoricDetailQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/NativeHistoricDetailQueryImpl.java
+END
+GroupQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/GroupQueryProperty.java
+END
+ModelQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ModelQueryProperty.java
+END
+TaskQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/TaskQueryProperty.java
+END
+ExecutionQueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/ExecutionQueryProperty.java
+END

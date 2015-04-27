@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/Expression.java
+END
+JuelExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/JuelExpression.java
+END
+NoExecutionVariableScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/NoExecutionVariableScope.java
+END
+ActivitiElContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/ActivitiElContext.java
+END
+VariableScopeElResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/VariableScopeElResolver.java
+END
+ActivitiFunctionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/ActivitiFunctionMapper.java
+END
+ExpressionFactoryResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/ExpressionFactoryResolver.java
+END
+ParsingElContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/ParsingElContext.java
+END
+ExpressionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/ExpressionManager.java
+END
+FixedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/FixedValue.java
+END
+UelExpressionCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/UelExpressionCondition.java
+END
+ReadOnlyMapELResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/el/ReadOnlyMapELResolver.java
+END

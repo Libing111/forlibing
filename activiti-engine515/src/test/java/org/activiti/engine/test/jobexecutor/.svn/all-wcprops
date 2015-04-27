@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/jobexecutor
+END
+JobExecutorCmdHappyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/jobexecutor/JobExecutorCmdHappyTest.java
+END
+JobExecutorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/jobexecutor/JobExecutorTestCase.java
+END
+TweetExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/jobexecutor/TweetExceptionHandler.java
+END
+TweetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/jobexecutor/TweetHandler.java
+END
+JobExecutorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/jobexecutor/JobExecutorTest.java
+END
+JobExecutorCmdExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/jobexecutor/JobExecutorCmdExceptionTest.java
+END

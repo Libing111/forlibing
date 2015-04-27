@@ -1,0 +1,37 @@
+10
+
+dir
+650
+https://192.168.1.150:8443/svn/proper-uip-dev/branches/UIP5-4AH/uip-security/src/main/java/com/proper/uip/security/registrationAuthority
+https://192.168.1.150:8443/svn/proper-uip-dev
+
+
+
+2014-11-27T05:40:52.325858Z
+417
+lichunyan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4c894646-b7a8-c249-a43d-8bea82e427c2
+
+service
+dir
+
+impl
+dir
+
+controller
+dir
+

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine
+END
+ActivitiObjectNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ActivitiObjectNotFoundException.java
+END
+ActivitiTaskAlreadyClaimedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ActivitiTaskAlreadyClaimedException.java
+END
+RepositoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/RepositoryService.java
+END
+RuntimeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/RuntimeService.java
+END
+ProcessEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ProcessEngine.java
+END
+JobNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/JobNotFoundException.java
+END
+ActivitiOptimisticLockingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ActivitiOptimisticLockingException.java
+END
+EngineServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/EngineServices.java
+END
+IdentityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/IdentityService.java
+END
+ActivitiWrongDbException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ActivitiWrongDbException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/package.html
+END
+ActivitiClassLoadingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ActivitiClassLoadingException.java
+END
+ProcessEngineInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ProcessEngineInfo.java
+END
+HistoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/HistoryService.java
+END
+TaskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/TaskService.java
+END
+FormService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/FormService.java
+END
+ProcessEngines.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ProcessEngines.java
+END
+ActivitiIllegalArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ActivitiIllegalArgumentException.java
+END
+ProcessEngineLifecycleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ProcessEngineLifecycleListener.java
+END
+ActivitiException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ActivitiException.java
+END
+ProcessEngineConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ProcessEngineConfiguration.java
+END
+ManagementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/ManagementService.java
+END

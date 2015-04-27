@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop
+END
+activiti.mssql.drop.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.mssql.drop.engine.sql
+END
+activiti.oracle.drop.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.oracle.drop.history.sql
+END
+activiti.mysql.drop.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.mysql.drop.history.sql
+END
+activiti.postgres.drop.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.postgres.drop.history.sql
+END
+activiti.db2.drop.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.db2.drop.history.sql
+END
+activiti.oracle.drop.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.oracle.drop.engine.sql
+END
+activiti.mysql.drop.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.mysql.drop.engine.sql
+END
+activiti.h2.drop.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.h2.drop.history.sql
+END
+activiti.postgres.drop.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.postgres.drop.engine.sql
+END
+activiti.db2.drop.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.db2.drop.engine.sql
+END
+activiti.h2.drop.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.h2.drop.engine.sql
+END
+activiti.mssql.drop.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.mssql.drop.identity.sql
+END
+activiti.oracle.drop.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.oracle.drop.identity.sql
+END
+activiti.mysql.drop.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.mysql.drop.identity.sql
+END
+activiti.postgres.drop.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.postgres.drop.identity.sql
+END
+activiti.mssql.drop.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.mssql.drop.history.sql
+END
+activiti.db2.drop.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.db2.drop.identity.sql
+END
+activiti.h2.drop.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/drop/activiti.h2.drop.identity.sql
+END

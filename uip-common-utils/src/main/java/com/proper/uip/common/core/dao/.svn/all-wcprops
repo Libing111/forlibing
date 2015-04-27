@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/src/main/java/com/proper/uip/common/core/dao
+END
+SimpleHibernateDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/src/main/java/com/proper/uip/common/core/dao/SimpleHibernateDao.java
+END
+HibernateDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/src/main/java/com/proper/uip/common/core/dao/HibernateDao.java
+END
+SqlEso.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/src/main/java/com/proper/uip/common/core/dao/SqlEso.java
+END
+SqlInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/src/main/java/com/proper/uip/common/core/dao/SqlInfo.java
+END

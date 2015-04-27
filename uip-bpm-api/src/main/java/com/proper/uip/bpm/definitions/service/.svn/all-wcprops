@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/service
+END
+ProcessDefinitionManagementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/service/ProcessDefinitionManagementService.java
+END
+BpmDefinitionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/service/BpmDefinitionService.java
+END
+BpmDefinitionsCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/service/BpmDefinitionsCategoryService.java
+END
+processDefinitionOrganizationRelationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/service/processDefinitionOrganizationRelationService.java
+END

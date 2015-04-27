@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway
+END
+InclusiveGatewayTest.testDecideBasedOnListOrArrayOfBeans.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testDecideBasedOnListOrArrayOfBeans.bpmn20.xml
+END
+ParallelGatewayTest.testUnstructuredConcurrencyTwoForks.png
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testUnstructuredConcurrencyTwoForks.png
+END
+InclusiveGatewayTest.testDecideBasedOnBeanProperty.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testDecideBasedOnBeanProperty.bpmn20.xml
+END
+InclusiveGatewayTest.testDefaultSequenceFlow.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testDefaultSequenceFlow.bpmn20.xml
+END
+ExclusiveGatewayTest.testDecideBasedOnBeanMethod.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testDecideBasedOnBeanMethod.bpmn20.xml
+END
+ExclusiveGatewayTest.testMergingExclusiveGateway.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testMergingExclusiveGateway.bpmn20.xml
+END
+InclusiveGatewayTest.testPartialMergingInclusiveGateway.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testPartialMergingInclusiveGateway.bpmn20.xml
+END
+InclusiveGatewayTest.testLoop.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testLoop.bpmn20.xml
+END
+ExclusiveGatewayTest.testDecideBasedOnListOrArrayOfBeans.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testDecideBasedOnListOrArrayOfBeans.bpmn20.xml
+END
+ExclusiveGatewayTest.testDecideBasedOnBeanProperty.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testDecideBasedOnBeanProperty.bpmn20.xml
+END
+ParallelGatewayTest.testUnstructuredConcurrencyTwoJoins.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testUnstructuredConcurrencyTwoJoins.bpmn20.xml
+END
+ExclusiveGatewayTest.testDefaultSequenceFlow.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testDefaultSequenceFlow.bpmn20.xml
+END
+ExclusiveGatewayTest.testMultipleValidConditions.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testMultipleValidConditions.bpmn20.xml
+END
+ParallelGatewayTest.testSplitMergeNoWaitstates.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testSplitMergeNoWaitstates.bpmn20.xml
+END
+EventBasedGatewayTest.testCatchAlertAndTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/EventBasedGatewayTest.testCatchAlertAndTimer.bpmn20.xml
+END
+EventBasedGatewayTest.testConnectedToActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/EventBasedGatewayTest.testConnectedToActivity.bpmn20.xml
+END
+ParallelGatewayTest.testForkFollowedByOnlyEndEvents.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testForkFollowedByOnlyEndEvents.bpmn20.xml
+END
+ParallelGatewayTest.testUnstructuredConcurrencyTwoJoins.png
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testUnstructuredConcurrencyTwoJoins.png
+END
+ParallelGatewayTest.testNestedForkJoin.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testNestedForkJoin.jpg
+END
+InclusiveGatewayTest.testWhitespaceInExpression.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testWhitespaceInExpression.bpmn20.xml
+END
+InclusiveGatewayTest.testNoSequenceFlowSelected.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testNoSequenceFlowSelected.bpmn20.xml
+END
+InclusiveGatewayTest.testNoIdOnSequenceFlow.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testNoIdOnSequenceFlow.bpmn20.xml
+END
+InclusiveGatewayTest.testInvalidMethodExpression.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testInvalidMethodExpression.bpmn20.xml
+END
+EventBasedGatewayTest.throwAlertSignal.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/EventBasedGatewayTest.throwAlertSignal.bpmn20.xml
+END
+ParallelGatewayTest.testReceyclingExecutionWithCallActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testReceyclingExecutionWithCallActivity.bpmn20.xml
+END
+ExclusiveGatewayTest.testWhitespaceInExpression.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testWhitespaceInExpression.bpmn20.xml
+END
+EventBasedGatewayTest.testCatchSignalAndMessageAndTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/EventBasedGatewayTest.testCatchSignalAndMessageAndTimer.bpmn20.xml
+END
+ExclusiveGatewayTest.testNoSequenceFlowSelected.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testNoSequenceFlowSelected.bpmn20.xml
+END
+ParallelGatewayTest.testUnstructuredConcurrencyTwoForks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testUnstructuredConcurrencyTwoForks.bpmn20.xml
+END
+InclusiveGatewayTest.testJoinAfterCall.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testJoinAfterCall.bpmn20.xml
+END
+ExclusiveGatewayTest.testInvalidMethodExpression.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testInvalidMethodExpression.bpmn20.xml
+END
+ExclusiveGatewayTest.testNoIdOnSequenceFlow.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testNoIdOnSequenceFlow.bpmn20.xml
+END
+InclusiveGatewayTest.testWithSignalBoundaryEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testWithSignalBoundaryEvent.bpmn20.xml
+END
+ParallelGatewayTest.testNestedForkJoin.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testNestedForkJoin.bpmn20.xml
+END
+InclusiveGatewayTest.testJoinAfterSubprocesses.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testJoinAfterSubprocesses.bpmn20.xml
+END
+InclusiveGatewayTest.testDivergingInclusiveGateway.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testDivergingInclusiveGateway.bpmn20.xml
+END
+ParallelGatewayTest.testNestedForksFollowedByEndEvents.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testNestedForksFollowedByEndEvents.bpmn20.xml
+END
+InclusiveGatewayTest.testJoinAfterCallSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testJoinAfterCallSubProcess.bpmn20.xml
+END
+ParallelGatewayTest.testHistoryTables.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ParallelGatewayTest.testHistoryTables.bpmn20.xml
+END
+InclusiveGatewayTest.testParentActivationOnNonJoiningEnd.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testParentActivationOnNonJoiningEnd.bpmn20.xml
+END
+EventBasedGatewayTest.testEventInvalidSequenceFlow.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/EventBasedGatewayTest.testEventInvalidSequenceFlow.bpmn20.xml
+END
+InclusiveGatewayTest.testMergingInclusiveGateway.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testMergingInclusiveGateway.bpmn20.xml
+END
+ExclusiveGatewayTest.testDivergingExclusiveGateway.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/ExclusiveGatewayTest.testDivergingExclusiveGateway.bpmn20.xml
+END
+InclusiveGatewayTest.testDecideBasedOnBeanMethod.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/gateway/InclusiveGatewayTest.testDecideBasedOnBeanMethod.bpmn20.xml
+END

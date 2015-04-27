@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime
+END
+ProcessInstanceSuspensionTest.testJobNotExecutedAfterProcessInstanceSuspend.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/ProcessInstanceSuspensionTest.testJobNotExecutedAfterProcessInstanceSuspend.bpmn20.xml
+END
+ProcessInstanceUpdateBusinessKeyTest.testProcessInstanceUpdateBusinessKey.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/ProcessInstanceUpdateBusinessKeyTest.testProcessInstanceUpdateBusinessKey.bpmn20.xml
+END
+oneTaskProcess2.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/oneTaskProcess2.bpmn20.xml
+END
+ProcessInstanceCommentTest.testAddCommentToProcessInstance.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/ProcessInstanceCommentTest.testAddCommentToProcessInstance.bpmn20.xml
+END
+subProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/subProcess.bpmn20.xml
+END
+threeParallelTasks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/threeParallelTasks.bpmn20.xml
+END
+nestedSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/nestedSubProcess.bpmn20.xml
+END
+ExecutionQueryTest.testQueryBySignalSubscriptionName.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/ExecutionQueryTest.testQueryBySignalSubscriptionName.bpmn20.xml
+END
+superProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/superProcess.bpmn20.xml
+END
+RuntimeServiceTest.catchPanicSignal.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/RuntimeServiceTest.catchPanicSignal.bpmn20.xml
+END
+ProcessInstanceSuspensionTest.testSignalEventReceivedAfterProcessInstanceSuspended.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/ProcessInstanceSuspensionTest.testSignalEventReceivedAfterProcessInstanceSuspended.bpmn20.xml
+END
+ExecutionQueryTest.testQueryBySignalSubscriptionNameBoundary.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/ExecutionQueryTest.testQueryBySignalSubscriptionNameBoundary.bpmn20.xml
+END
+oneTaskProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/oneTaskProcess.bpmn20.xml
+END
+RuntimeServiceTest.testSignalWithProcessVariables.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/RuntimeServiceTest.testSignalWithProcessVariables.bpmn20.xml
+END
+RuntimeServiceTest.catchPanicMessage.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/RuntimeServiceTest.catchPanicMessage.bpmn20.xml
+END
+superProcessWithNestedSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/superProcessWithNestedSubProcess.bpmn20.xml
+END
+concurrentExecution.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/concurrentExecution.bpmn20.xml
+END
+ProcessInstanceSuspensionTest.testChildExecutionsSuspendedAfterProcessInstanceSuspend.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/ProcessInstanceSuspensionTest.testChildExecutionsSuspendedAfterProcessInstanceSuspend.bpmn20.xml
+END
+RuntimeServiceTest.catchAlertSignal.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/RuntimeServiceTest.catchAlertSignal.bpmn20.xml
+END
+RuntimeServiceTest.testFindActiveActivityIdProcessWithErrorEventAndSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/RuntimeServiceTest.testFindActiveActivityIdProcessWithErrorEventAndSubProcess.bpmn20.xml
+END
+ProcessInstanceUpdateBusinessKeyTest.testUpdateExistingBusinessKey.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/ProcessInstanceUpdateBusinessKeyTest.testUpdateExistingBusinessKey.bpmn20.xml
+END
+superProcessWithMultipleNestedSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/superProcessWithMultipleNestedSubProcess.bpmn20.xml
+END
+RuntimeServiceTest.catchAlertMessage.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/runtime/RuntimeServiceTest.catchAlertMessage.bpmn20.xml
+END

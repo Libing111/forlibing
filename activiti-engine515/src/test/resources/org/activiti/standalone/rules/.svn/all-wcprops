@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/rules
+END
+rules.activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/rules/rules.activiti.cfg.xml
+END
+simpleRule1.drl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/rules/simpleRule1.drl
+END
+rulesDeploymentTestProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/rules/rulesDeploymentTestProcess.bpmn20.xml
+END

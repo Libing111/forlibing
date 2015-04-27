@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 1.6.0_13
+Class-Path: spring-webmvc-3.2.0.RELEASE.jar spring-context-3.2.0.RELEA
+ SE.jar spring-aop-3.2.0.RELEASE.jar spring-core-3.2.0.RELEASE.jar spr
+ ing-web-3.2.0.RELEASE.jar spring-expression-3.2.0.RELEASE.jar spring-
+ beans-3.2.0.RELEASE.jar spring-orm-3.2.0.RELEASE.jar spring-jdbc-3.2.
+ 0.RELEASE.jar spring-tx-3.2.0.RELEASE.jar aopalliance-1.0.jar spring-
+ context-support-3.2.0.RELEASE.jar hibernate-ehcache-4.2.1.Final.jar j
+ boss-logging-3.1.0.GA.jar hibernate-core-4.2.1.Final.jar antlr-2.7.7.
+ jar dom4j-1.6.1.jar jboss-transaction-api_1.1_spec-1.0.1.Final.jar hi
+ bernate-jpa-2.0-api-1.0.1.Final.jar javassist-3.15.0-GA.jar hibernate
+ -commons-annotations-4.0.1.Final.jar ehcache-core-2.4.3.jar jstl-1.2.
+ jar urlrewritefilter-4.0.3.jar jackson-core-asl-1.9.11.jar jackson-ma
+ pper-lgpl-1.9.11.jar jackson-core-lgpl-1.9.11.jar log4j-1.2.15.jar ma
+ il-1.4.jar activation-1.1.jar slf4j-api-1.6.4.jar slf4j-simple-1.6.4.
+ jar commons-logging-1.1.1.jar uip-common-utils-3.0-SNAPSHOT.jar hiber
+ nate-entitymanager-4.2.1.Final.jar servlet-api-2.5.jar json-lib-2.4-j
+ dk15.jar commons-beanutils-1.8.0.jar commons-collections-3.2.1.jar co
+ mmons-lang-2.4.jar ezmorph-1.0.6.jar uip-security-api-3.0-SNAPSHOT.ja
+ r uip-desktop-api-3.0-SNAPSHOT.jar
+Specification-Title: uip-desktop-common
+Specification-Version: 3.0-SNAPSHOT
+Specification-Vendor: Proper
+Implementation-Title: uip-desktop-common
+Implementation-Version: 3.0-SNAPSHOT
+Implementation-Vendor-Id: com.proper.uip
+Implementation-Vendor: Proper
+Created-By: Maven Integration for Eclipse
+Implementation-Revision: 
+

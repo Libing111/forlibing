@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction
+END
+TransactionSubProcessTest.testNestedCancelOuter.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction/TransactionSubProcessTest.testNestedCancelOuter.bpmn20.xml
+END
+TransactionSubProcessTest.testCancelBoundaryNoTransactionFails.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction/TransactionSubProcessTest.testCancelBoundaryNoTransactionFails.bpmn20.xml
+END
+TransactionSubProcessTest.testMultiInstanceTx.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction/TransactionSubProcessTest.testMultiInstanceTx.bpmn20.xml
+END
+TransactionSubProcessTest.testCancelEndNoTransactionFails.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction/TransactionSubProcessTest.testCancelEndNoTransactionFails.bpmn20.xml
+END
+TransactionSubProcessTest.testCancelEndConcurrent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction/TransactionSubProcessTest.testCancelEndConcurrent.bpmn20.xml
+END
+TransactionSubProcessTest.testParseWithDI.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction/TransactionSubProcessTest.testParseWithDI.bpmn20.xml
+END
+TransactionSubProcessTest.testMultipleCancelBoundaryFails.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction/TransactionSubProcessTest.testMultipleCancelBoundaryFails.bpmn20.xml
+END
+TransactionSubProcessTest.testNestedCancelInner.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction/TransactionSubProcessTest.testNestedCancelInner.bpmn20.xml
+END
+TransactionSubProcessTest.testSimpleCase.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/transaction/TransactionSubProcessTest.testSimpleCase.bpmn20.xml
+END

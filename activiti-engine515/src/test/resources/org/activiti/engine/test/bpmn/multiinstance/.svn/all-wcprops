@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance
+END
+MultiInstanceTest.testParallelSubProcessAllAutomatic.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelSubProcessAllAutomatic.bpmn20.xml
+END
+MultiInstanceTest.testParallelCallActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelCallActivity.bpmn20.xml
+END
+MultiInstanceTest.testNestedParallelCallActivityWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedParallelCallActivityWithTimer.bpmn20.xml
+END
+MultiInstanceTest.testNestedParallelCallActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedParallelCallActivity.bpmn20.xml
+END
+MultiInstanceTest.testParallelUserTasksBasedOnCollection.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelUserTasksBasedOnCollection.bpmn20.xml
+END
+MultiInstanceTest.testSequentialCallActivityWithList.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialCallActivityWithList.bpmn20.xml
+END
+MultiInstanceTest.testParallelUserTasksCustomExtensions.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelUserTasksCustomExtensions.bpmn20.xml
+END
+MultiInstanceTest.testSequentialSubProcessEndEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialSubProcessEndEvent.bpmn20.xml
+END
+MultiInstanceTest.testSequentialSubProcessWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialSubProcessWithTimer.bpmn20.xml
+END
+MultiInstanceTest.testNestedSequentialUserTasks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedSequentialUserTasks.bpmn20.xml
+END
+MultiInstanceTest.testMultiInstanceParallelReceiveTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testMultiInstanceParallelReceiveTask.bpmn20.xml
+END
+MultiInstanceTest.testNestedSequentialCallActivityWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedSequentialCallActivityWithTimer.bpmn20.xml
+END
+MultiInstanceTest.testSequentialCallActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialCallActivity.bpmn20.xml
+END
+MultiInstanceTest.testParallelUserTasksExecutionAndTaskListeners.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelUserTasksExecutionAndTaskListeners.bpmn20.xml
+END
+MultiInstanceTest.testNestedSequentialCallActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedSequentialCallActivity.bpmn20.xml
+END
+MultiInstanceTest.throwingErrorEventSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.throwingErrorEventSubProcess.bpmn20.xml
+END
+MultiInstanceTest.testParallelScriptTasks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelScriptTasks.bpmn20.xml
+END
+MultiInstanceTest.testParallelScriptTasksCompletionCondition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelScriptTasksCompletionCondition.bpmn20.xml
+END
+MultiInstanceTest.testNestedMultiInstanceTasks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedMultiInstanceTasks.bpmn20.xml
+END
+MultiInstanceTest.testSequentialUserTasksCustomExtensions.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialUserTasksCustomExtensions.bpmn20.xml
+END
+MultiInstanceTest.externalSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.externalSubProcess.bpmn20.xml
+END
+MultiInstanceTest.testNestedParallelSubProcessWithTimer.png
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedParallelSubProcessWithTimer.png
+END
+MultiInstanceTest.callActivityWithBoundaryErrorEventSequential.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.callActivityWithBoundaryErrorEventSequential.bpmn20.xml
+END
+MultiInstanceTest.testMultiInstanceSequentialReceiveTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testMultiInstanceSequentialReceiveTask.bpmn20.xml
+END
+MultiInstanceTest.testParallelUserTasks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelUserTasks.bpmn20.xml
+END
+MultiInstanceTest.testParallelUserTasksCompletionCondition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelUserTasksCompletionCondition.bpmn20.xml
+END
+MultiInstanceTest.testParallelCallActivityWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelCallActivityWithTimer.bpmn20.xml
+END
+MultiInstanceTest.testMultiInstanceParalelReceiveTaskWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testMultiInstanceParalelReceiveTaskWithTimer.bpmn20.xml
+END
+MultiInstanceTest.callActivityWithBoundaryErrorEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.callActivityWithBoundaryErrorEvent.bpmn20.xml
+END
+MultiInstanceTest.testParallelSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelSubProcess.bpmn20.xml
+END
+MultiInstanceTest.testNestedParallelSubProcessWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedParallelSubProcessWithTimer.bpmn20.xml
+END
+MultiInstanceTest.testSequentialScriptTasks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialScriptTasks.bpmn20.xml
+END
+MultiInstanceTest.testParallelSubProcessCompletionCondition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelSubProcessCompletionCondition.bpmn20.xml
+END
+MultiInstanceTest.testSequentialScriptTasksCompletionCondition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialScriptTasksCompletionCondition.bpmn20.xml
+END
+MultiInstanceTest.testNestedParallelSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedParallelSubProcess.bpmn20.xml
+END
+MultiInstanceTest.testNestedParallelCallActivityCompletionCondition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedParallelCallActivityCompletionCondition.bpmn20.xml
+END
+MultiInstanceTest.sequentialUserTasks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.sequentialUserTasks.bpmn20.xml
+END
+MultiInstanceTest.testSequentialCallActivityWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialCallActivityWithTimer.bpmn20.xml
+END
+MultiInstanceTest.testNestedSequentialSubProcessWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedSequentialSubProcessWithTimer.bpmn20.xml
+END
+MultiInstanceTest.testSequentialSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialSubProcess.bpmn20.xml
+END
+MultiInstanceTest.testSequentialSubProcessCompletionCondition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialSubProcessCompletionCondition.bpmn20.xml
+END
+MultiInstanceTest.testNestedSequentialSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedSequentialSubProcess.bpmn20.xml
+END
+MultiInstanceTest.testParallelUserTasksWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelUserTasksWithTimer.bpmn20.xml
+END
+MultiInstanceTest.testSequentialServiceTaskWithClassAndCollection.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialServiceTaskWithClassAndCollection.bpmn20.xml
+END
+MultiInstanceTest.testSequentialServiceTaskWithClass.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testSequentialServiceTaskWithClass.bpmn20.xml
+END
+MultiInstanceTest.testAct901.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testAct901.bpmn20.xml
+END
+MultiInstanceTest.testParallelSubProcessWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelSubProcessWithTimer.bpmn20.xml
+END
+MultiInstanceTest.testNestedParallelUserTasks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testNestedParallelUserTasks.bpmn20.xml
+END
+MultiInstanceTest.testParallelUserTasksCustomExtensionsLoopIndexVariable.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/multiinstance/MultiInstanceTest.testParallelUserTasksCustomExtensionsLoopIndexVariable.bpmn20.xml
+END

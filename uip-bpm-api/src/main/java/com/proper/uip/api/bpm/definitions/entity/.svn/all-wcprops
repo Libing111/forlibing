@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/proper-uip-dev/!svn/ver/665/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity
+END
+ProcessDefinitionManagementEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/ProcessDefinitionManagementEntity.java
+END
+ScenarioCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/ScenarioCategory.java
+END
+ScenarioItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/ScenarioItem.java
+END
+MonitorEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/MonitorEntity.java
+END
+AssignmentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/665/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/AssignmentEntity.java
+END
+ProcessDefinitionsCategoryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/ProcessDefinitionsCategoryEntity.java
+END
+ProcessDefinitionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/ProcessDefinitionResponse.java
+END
+TaskDefinitionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/TaskDefinitionEntity.java
+END
+ProcessDefinitionOrganizationRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/ProcessDefinitionOrganizationRelation.java
+END
+TaskStepsEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/definitions/entity/TaskStepsEntity.java
+END

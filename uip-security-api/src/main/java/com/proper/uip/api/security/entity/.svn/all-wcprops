@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/proper-uip-dev/!svn/ver/657/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity
+END
+RoleCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/RoleCategory.java
+END
+ResourceMocDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/ResourceMocDefinition.java
+END
+RaCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/RaCategory.java
+END
+ResourceChildNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/635/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/ResourceChildNode.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/439/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/Role.java
+END
+ResourceSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/ResourceSet.java
+END
+RoleResourceRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/RoleResourceRelation.java
+END
+ResourceResourceSetRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/ResourceResourceSetRelation.java
+END
+UserCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/UserCategory.java
+END
+ResourceTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/324/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/ResourceTreeNode.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/User.java
+END
+RegistrationAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/RegistrationAuthority.java
+END
+RaResourceSetRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/RaResourceSetRelation.java
+END
+ResourceCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/ResourceCategory.java
+END
+RacateResset.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/RacateResset.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/Resource.java
+END
+RoleRuleRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/657/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/RoleRuleRelation.java
+END
+UsercateRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/UsercateRole.java
+END
+RoleUserRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/src/main/java/com/proper/uip/api/security/entity/RoleUserRelation.java
+END

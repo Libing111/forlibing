@@ -1,0 +1,1 @@
+<script type="text/javascript" src="/file/script/jquery-1.4.4.min.js"></script>

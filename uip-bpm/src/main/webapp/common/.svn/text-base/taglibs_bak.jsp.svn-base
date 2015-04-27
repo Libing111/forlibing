@@ -1,0 +1,17 @@
+<%
+String path = request.getContextPath();
+String contextPath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+"/";
+String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
+response.setHeader("P3P","CP=CAO PSA OUR IDC DSP COR ADM DEVi TAIi PSD IVAi IVDi CONi HIS IND CNT");
+%>
+
+<link href="<%=contextPath%>file/libs/css/import_basic.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" id="skin" prePath="<%=contextPath%>file/"/>
+<link rel="stylesheet" type="text/css" id="customSkin"/>
+<script type="text/javascript" src="<%=contextPath%>file/libs/js/jquery.js"></script>
+<script type="text/javascript" src="<%=contextPath%>file/libs/js/language/cn.js"></script>
+
+<script type="text/javascript" src="<%=contextPath%>file/script/proper.js"></script>
+<link href="<%=contextPath%>file/css/opt.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="<%=contextPath%>file/libs/js/framework.js"></script>
+

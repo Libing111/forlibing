@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/mail
+END
+EmailSendTaskTest.testSendEmail.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/mail/EmailSendTaskTest.testSendEmail.bpmn20.xml
+END
+EmailServiceTaskTest.testSendEmail.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/mail/EmailServiceTaskTest.testSendEmail.bpmn20.xml
+END

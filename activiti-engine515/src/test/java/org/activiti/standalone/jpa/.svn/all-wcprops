@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa
+END
+IntegerIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/IntegerIdJPAEntity.java
+END
+SQLDateIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/SQLDateIdJPAEntity.java
+END
+LongIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/LongIdJPAEntity.java
+END
+IllegalIdClassJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/IllegalIdClassJPAEntity.java
+END
+ShortIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/ShortIdJPAEntity.java
+END
+ByteIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/ByteIdJPAEntity.java
+END
+FloatIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/FloatIdJPAEntity.java
+END
+StringIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/StringIdJPAEntity.java
+END
+DoubleIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/DoubleIdJPAEntity.java
+END
+JPAVariableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/JPAVariableTest.java
+END
+DateIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/DateIdJPAEntity.java
+END
+CharIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/CharIdJPAEntity.java
+END
+BigIntegerIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/BigIntegerIdJPAEntity.java
+END
+BigDecimalIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/BigDecimalIdJPAEntity.java
+END
+EmbeddableCompoundId.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/EmbeddableCompoundId.java
+END
+MappedSuperClassFieldAccessJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/MappedSuperClassFieldAccessJPAEntity.java
+END
+CompoundIdJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/CompoundIdJPAEntity.java
+END
+MappedSuperClassPropertyAccessJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/MappedSuperClassPropertyAccessJPAEntity.java
+END
+FieldAccessJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/FieldAccessJPAEntity.java
+END
+SubclassFieldAccessJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/SubclassFieldAccessJPAEntity.java
+END
+PropertyAccessJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/PropertyAccessJPAEntity.java
+END
+SubclassPropertyAccessJPAEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/standalone/jpa/SubclassPropertyAccessJPAEntity.java
+END

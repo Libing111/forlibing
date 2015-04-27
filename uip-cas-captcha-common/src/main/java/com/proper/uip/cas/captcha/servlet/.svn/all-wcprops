@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/src/main/java/com/proper/uip/cas/captcha/servlet
+END
+YzmFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/src/main/java/com/proper/uip/cas/captcha/servlet/YzmFilter.java
+END
+ImageCaptchaServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/src/main/java/com/proper/uip/cas/captcha/servlet/ImageCaptchaServlet.java
+END
+YzmAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/src/main/java/com/proper/uip/cas/captcha/servlet/YzmAction.java
+END

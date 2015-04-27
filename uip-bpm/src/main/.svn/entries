@@ -1,0 +1,55 @@
+10
+
+dir
+323
+https://192.168.1.150:8443/svn/proper-uip-dev/branches/UIP5-4AH/uip-bpm/src/main
+https://192.168.1.150:8443/svn/proper-uip-dev
+
+
+
+2014-03-20T02:42:32.977849Z
+240
+zhanghuafeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4c894646-b7a8-c249-a43d-8bea82e427c2
+
+assembly
+dir
+
+sql
+dir
+
+java
+dir
+
+config
+dir
+
+bin
+dir
+
+filters
+dir
+
+resources
+dir
+
+activiti
+dir
+
+webapp
+dir
+

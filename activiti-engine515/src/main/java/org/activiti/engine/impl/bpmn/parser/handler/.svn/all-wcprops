@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler
+END
+SendTaskParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/SendTaskParseHandler.java
+END
+AbstractExternalInvocationBpmnParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/AbstractExternalInvocationBpmnParseHandler.java
+END
+ProcessParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/ProcessParseHandler.java
+END
+ParallelGatewayParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/ParallelGatewayParseHandler.java
+END
+IntermediateCatchEventParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/IntermediateCatchEventParseHandler.java
+END
+ServiceTaskParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/ServiceTaskParseHandler.java
+END
+InclusiveGatewayParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/InclusiveGatewayParseHandler.java
+END
+TransactionParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/TransactionParseHandler.java
+END
+ScriptTaskParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/ScriptTaskParseHandler.java
+END
+SubProcessParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/SubProcessParseHandler.java
+END
+SignalEventDefinitionParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/SignalEventDefinitionParseHandler.java
+END
+ExclusiveGatewayParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/ExclusiveGatewayParseHandler.java
+END
+EventSubProcessParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/EventSubProcessParseHandler.java
+END
+TimerEventDefinitionParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/TimerEventDefinitionParseHandler.java
+END
+StartEventParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/StartEventParseHandler.java
+END
+CancelEventDefinitionParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/CancelEventDefinitionParseHandler.java
+END
+IntermediateThrowEventParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/IntermediateThrowEventParseHandler.java
+END
+SequenceFlowParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/SequenceFlowParseHandler.java
+END
+UserTaskParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/UserTaskParseHandler.java
+END
+EventBasedGatewayParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/EventBasedGatewayParseHandler.java
+END
+TaskParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/TaskParseHandler.java
+END
+EndEventParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/EndEventParseHandler.java
+END
+CompensateEventDefinitionParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/CompensateEventDefinitionParseHandler.java
+END
+AbstractFlowNodeBpmnParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/AbstractFlowNodeBpmnParseHandler.java
+END
+AbstractBpmnParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/AbstractBpmnParseHandler.java
+END
+BusinessRuleParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/BusinessRuleParseHandler.java
+END
+BoundaryEventParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/BoundaryEventParseHandler.java
+END
+CallActivityParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/CallActivityParseHandler.java
+END
+AbstractActivityBpmnParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/AbstractActivityBpmnParseHandler.java
+END
+MessageEventDefinitionParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/MessageEventDefinitionParseHandler.java
+END
+ManualTaskParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/ManualTaskParseHandler.java
+END
+ErrorEventDefinitionParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/ErrorEventDefinitionParseHandler.java
+END
+ReceiveTaskParseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/bpmn/parser/handler/ReceiveTaskParseHandler.java
+END

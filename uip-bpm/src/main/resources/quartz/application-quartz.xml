@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+	<bean id="tasksScheduling" class="com.proper.uip.bpm.tasks.impl.BpmTasksScheduling">
+		<!-- loginNameList 为登录名字，唯一的 -->
+		<property name="loginNameList">
+			<list>
+				<value>001</value>
+				<value>1002</value>
+			</list>
+		</property>
+		<property name="shortMessageTemplate">
+			<value>您当前待办工作有#taskCount#条，请及时登录社会组织管理平台办理</value>
+		</property>
+		<property name="taskCountPlaceholder">
+			<value>#taskCount#</value>
+		</property>
+	</bean>
+	<bean id="methodInvokingJobDetail"
+		class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+		<property name="targetObject">
+			<ref bean="tasksScheduling" />
+		</property>
+		<property name="targetMethod">
+			<value>execute</value>
+		</property>
+	</bean>
+	<!-- 配置触发器 -->
+	<bean id="cronTrigger" class="org.springframework.scheduling.quartz.CronTriggerBean">
+		<!-- 这里不可以直接在属性jobDetail中引用quartzController，因为他要求的是一个jobDetail类型的对象，所以我们得通过MethodInvokingJobDetailFactoryBean来转一下 -->
+		<property name="jobDetail">
+			<ref bean="methodInvokingJobDetail" />
+		</property>
+		<property name="cronExpression">
+			<value>0 0 8 ? * 2-6</value>
+		</property>
+	</bean>
+	<bean class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<!-- 添加触发器 -->
+		<property name="triggers">
+			<list>
+				<ref local="cronTrigger" />
+			</list>
+		</property>
+	</bean>
+	
+</beans>

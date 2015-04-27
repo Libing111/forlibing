@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/proper-uip-dev/!svn/ver/749/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/entity
+END
+ApplicationAndGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/entity/ApplicationAndGroup.java
+END
+ApplicationAndGroupTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/entity/ApplicationAndGroupTreeNode.java
+END
+HomeMessageEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/728/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/entity/HomeMessageEntity.java
+END
+QuickApplicationEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/320/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/entity/QuickApplicationEntity.java
+END
+MessageReportEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/749/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/entity/MessageReportEntity.java
+END

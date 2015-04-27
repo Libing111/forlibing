@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<!--框架必需start-->
+<script type="text/javascript" src="../../../libs/js/jquery.js"></script>
+<script type="text/javascript" src="../../../libs/js/framework.js"></script>
+<link href="../../../libs/css/import_basic.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" id="skin" prePath="../../../"/>
+<!--框架必需end-->
+
+
+<script>
+	function sureHandler(){
+		var gid=$("#group").val();
+		if(gid==""){
+			top.Dialog.alert("请选择分组",null,null,null,1);
+			return;
+		}
+		var name=$("#user").val();
+		if(name==""){
+			top.Dialog.alert("请填写用户名",null,null,null,1);
+			return;
+		}
+		top.addFriendHandler(gid,name)
+		top.Dialog.close()
+	}
+</script>
+</head>
+<body style="overflow:hidden;">
+	<div class="padding_top20 padding_left5">
+		<table class="tableStyle" formMode="transparent">
+	        <tr>
+			<td width="20%">用户名：</td>
+			<td><input type="text" style="width:188px;" id="user"/></td>
+			</tr>
+			<td>分组名：</td>
+			<td>
+				<select id="group" selWidth="180" prompt="请选择分组" data='{"list":[{"value":"1","key":"部门1"},{"value":"2","key":"部门2"},{"value":"3","key":"部门3"}]}'></select>
+			</td>
+			</tr>
+			<tr>
+			<td>昵称：</td>
+			<td><input type="text" style="width:188px;"/></td>
+			</tr>
+			<tr>
+			<tr>
+			<td colspan="2">
+				<input type="button" value="确定" onclick="sureHandler()"/>
+				<input type="button" value="取消" onclick="top.Dialog.close()"/>
+			</td>
+			</tr>
+	    </table>
+	</div>
+</body>	
+</html>

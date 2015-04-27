@@ -1,0 +1,18 @@
+#系统号
+platform.systemId=153
+#DEBUG/PRODUCT/PRODUCT-DEBUG
+platform.model=DEBUG
+
+
+#数据源
+db.jndi=java:comp/env/jdbc/proper
+
+#cas
+cas.client.webapp=bpm
+
+#user category
+user.category.admin.organization=user.category.admin.organization
+role.code.organization.admin.role=organization_admin_role
+
+defaultPassword=123456
+taskResourceCode=somp.bpm.task

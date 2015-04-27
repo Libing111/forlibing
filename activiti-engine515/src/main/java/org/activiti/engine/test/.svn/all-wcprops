@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/test
+END
+Deployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/test/Deployment.java
+END
+ActivitiRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/test/ActivitiRule.java
+END
+TestActivityBehaviorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/test/TestActivityBehaviorFactory.java
+END
+ActivitiTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/test/ActivitiTestCase.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/test/package.html
+END

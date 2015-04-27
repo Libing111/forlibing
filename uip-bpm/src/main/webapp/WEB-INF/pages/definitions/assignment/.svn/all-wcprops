@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/assignment
+END
+newTaskDefinition.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/assignment/newTaskDefinition.jsp
+END
+addUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/assignment/addUser.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/proper-uip-dev/!svn/ver/1002/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/assignment/index.jsp
+END
+identitylink.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/1002/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/assignment/identitylink.jsp
+END
+addPersonnel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/assignment/addPersonnel.jsp
+END
+updateTaskDefinition.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/assignment/updateTaskDefinition.jsp
+END
+CopyaddUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/proper-uip-dev/!svn/ver/427/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/assignment/CopyaddUser.jsp
+END
+positionlink.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/771/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/assignment/positionlink.jsp
+END

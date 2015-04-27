@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/proper-uip-dev/!svn/ver/665/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/extension
+END
+BpmFilterRuleExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/665/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/extension/BpmFilterRuleExtension.java
+END
+BpmTasksByCategoryExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/extension/BpmTasksByCategoryExtension.java
+END
+BpmAutoRuleExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/665/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/extension/BpmAutoRuleExtension.java
+END

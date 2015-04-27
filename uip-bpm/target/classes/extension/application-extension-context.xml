@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jee="http://www.springframework.org/schema/jee"
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd"
+	default-lazy-init="true">
+
+	<bean id="bpm.filter.rule.all" class="com.proper.uip.extension.impl.BpmFilterRuleAllExtensionImpl">
+		<property name="id" value="bpm.filter.rule.all"/>
+		<property name="name" value="允许选择全部指定的经办人"/>
+		<property name="code" value="1"/>
+	</bean>
+
+	<bean id="bpm.filter.rule.org" class="com.proper.uip.extension.impl.BpmFilterRuleByOrgExtension">
+		<property name="id" value="bpm.filter.rule.org"/>
+		<property name="name" value="只允许选择本部门经办人"/>
+		<property name="code" value="2"/>
+	</bean>
+
+	<bean id="bpm.auto.rule.initiator" class="com.proper.uip.extension.impl.BpmAutoRuleInitiatorExtension">
+		<property name="id" value="bpm.auto.rule.initiator"/>
+		<property name="name" value="自动选择流程发起人"/>
+		<property name="code" value="1"/>
+	</bean>
+
+	<bean id="bpm.auto.rule.orgleader" class="com.proper.uip.extension.impl.BpmAutoRuleOrgLeaderExtension">
+		<property name="id" value="bpm.auto.rule.orgleader"/>
+		<property name="name" value="自动选择流程发起人的科室负责人"/>
+		<property name="code" value="2"/>
+	</bean>
+
+	<bean id="bpm.auto.rule.personOrgleader" class="com.proper.uip.extension.impl.BpmAutoRulePersonOrgLeaderExtension">
+		<property name="id" value="bpm.auto.rule.personOrgleader"/>
+		<property name="name" value="自动选择流程发起人的科室的分管院领导"/>
+		<property name="code" value="3"/>
+	</bean>
+
+
+    <!-- 注释不要打开，因为实现类启用了注解扫描
+    <bean id="STCL" class="com.proper.caso.corporation.regist.task.service.imp.CorporationRegisterTaskExtension" />
+    <bean id="STBG" class="com.proper.caso.corporation.alteration.service.imp.CorporationAlterationTaskExtension" />
+    <bean id="STYQ" class="com.proper.caso.corporation.delay.service.imp.CorporationDelayTaskExtension" />
+    <bean id="STZX" class="com.proper.caso.corporation.logout.service.imp.CorporationLogoutTaskExtension" />
+    
+    <bean id="MFCL" class="com.proper.caso.peoplenon.regist.task.service.imp.PeopleNonRegisterTaskExtension" />
+    <bean id="MFBG" class="com.proper.caso.peoplenon.alteration.service.imp.PeopleNonAlterationTaskExtension" />
+    <bean id="MFYQ" class="com.proper.caso.peoplenon.delay.service.imp.PeopleNonDelayTaskExtension" />
+    <bean id="MFZX" class="com.proper.caso.peoplenon.logout.service.imp.PeopleNonLogoutTaskExtension" />
+    
+     
+	<bean id="STCLSG" class="com.proper.caso.corporation.regist.task.service.imp.CorporationRegisterTaskExtension" />
+	<bean id="STCLQX" class="com.proper.caso.corporation.regist.task.service.imp.CorporationRegisterTaskExtension" />
+	<bean id="STCLSGQX" class="com.proper.caso.corporation.regist.task.service.imp.CorporationRegisterTaskExtension" />
+	<bean id="STBGSG" class="com.proper.caso.corporation.alteration.service.imp.CorporationAlterationTaskExtension" />
+	<bean id="STBGQX" class="com.proper.caso.corporation.alteration.service.imp.CorporationAlterationTaskExtension" />
+	<bean id="STBGSGQX" class="com.proper.caso.corporation.alteration.service.imp.CorporationAlterationTaskExtension" />
+	<bean id="STYQSG" class="com.proper.caso.corporation.delay.service.imp.CorporationDelayTaskExtension" />
+	<bean id="STYQQX" class="com.proper.caso.corporation.delay.service.imp.CorporationDelayTaskExtension" />
+	<bean id="STYQSGQX" class="com.proper.caso.corporation.delay.service.imp.CorporationDelayTaskExtension" />
+	<bean id="STZXSG" class="com.proper.caso.corporation.logout.service.imp.CorporationLogoutTaskExtension" />
+	<bean id="STZXQX" class="com.proper.caso.corporation.logout.service.imp.CorporationLogoutTaskExtension" />
+	<bean id="STZXSGQX" class="com.proper.caso.corporation.logout.service.imp.CorporationLogoutTaskExtension" />
+	
+	<bean id="MFCLSG" class="com.proper.caso.peoplenon.regist.task.service.imp.PeopleNonRegisterTaskExtension" />
+	<bean id="MFCLQX" class="com.proper.caso.peoplenon.regist.task.service.imp.PeopleNonRegisterTaskExtension" />
+	<bean id="MFCLSGQX" class="com.proper.caso.peoplenon.regist.task.service.imp.PeopleNonRegisterTaskExtension" />
+	<bean id="MFBGSG" class="com.proper.caso.peoplenon.alteration.service.imp.PeopleNonAlterationTaskExtension" />
+	<bean id="MFBGQX" class="com.proper.caso.peoplenon.alteration.service.imp.PeopleNonAlterationTaskExtension" />
+	<bean id="MFBGSGQX" class="com.proper.caso.peoplenon.alteration.service.imp.PeopleNonAlterationTaskExtension" />
+	<bean id="MFYQSG" class="com.proper.caso.peoplenon.delay.service.imp.PeopleNonDelayTaskExtension" />
+	<bean id="MFYQQX" class="com.proper.caso.peoplenon.delay.service.imp.PeopleNonDelayTaskExtension" />
+	<bean id="MFYQSGQX" class="com.proper.caso.peoplenon.delay.service.imp.PeopleNonDelayTaskExtension" />
+	<bean id="MFZXSG" class="com.proper.caso.peoplenon.logout.service.imp.PeopleNonLogoutTaskExtension" />
+	<bean id="MFZXQX" class="com.proper.caso.peoplenon.logout.service.imp.PeopleNonLogoutTaskExtension" />
+	<bean id="MFZXSGQX" class="com.proper.caso.peoplenon.logout.service.imp.PeopleNonLogoutTaskExtension" />
+	
+	<bean id="JCCL" class="com.proper.caso.bpm.CommunityTasksExtension" />
+	<bean id="JCBG" class="com.proper.caso.bpm.CommunityTasksExtension" />
+	<bean id="JCYX" class="com.proper.caso.bpm.CommunityTasksExtension" />
+	<bean id="JCZX" class="com.proper.caso.bpm.CommunityTasksExtension" />
+	 -->
+</beans>

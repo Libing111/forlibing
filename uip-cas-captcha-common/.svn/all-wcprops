@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/.classpath
+END
+mvn package.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/mvn%20package.bat
+END
+.mymetadata
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/.mymetadata
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/pom.xml
+END
+mvn install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/mvn%20install.bat
+END

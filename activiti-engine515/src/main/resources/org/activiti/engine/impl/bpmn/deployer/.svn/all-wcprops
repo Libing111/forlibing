@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer
+END
+error_throw.png
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/error_throw.png
+END
+manual.png
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/manual.png
+END
+user.png
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/user.png
+END
+signal_catch.png
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/signal_catch.png
+END
+service.png
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/service.png
+END
+signal_throw.png
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/signal_throw.png
+END
+timer.png
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/timer.png
+END
+business_rule.png
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/business_rule.png
+END
+receive.png
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/receive.png
+END
+script.png
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/script.png
+END
+send.png
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/send.png
+END
+error_catch.png
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/engine/impl/bpmn/deployer/error_catch.png
+END

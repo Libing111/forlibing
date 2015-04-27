@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/proper-uip-dev/!svn/ver/860/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/extension/impl
+END
+BpmAutoRuleInitiatorExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/666/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/extension/impl/BpmAutoRuleInitiatorExtension.java
+END
+BpmAutoRuleOrgLeaderExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/905/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/extension/impl/BpmAutoRuleOrgLeaderExtension.java
+END
+BpmFilterRuleAllExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/666/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/extension/impl/BpmFilterRuleAllExtensionImpl.java
+END
+BpmAutoRulePersonOrgLeaderExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/1004/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/extension/impl/BpmAutoRulePersonOrgLeaderExtension.java
+END
+BpmHomeMessageExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/992/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/extension/impl/BpmHomeMessageExtensionImpl.java
+END
+BpmFilterRuleByOrgExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/905/branches/UIP5-4AH/uip-bpm-common/src/main/java/com/proper/uip/extension/impl/BpmFilterRuleByOrgExtension.java
+END

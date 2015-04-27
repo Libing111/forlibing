@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/async
+END
+AsyncTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/async/AsyncTaskTest.java
+END
+AsyncListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/async/AsyncListener.java
+END
+AsyncTaskListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/async/AsyncTaskListener.java
+END
+AsyncEmailTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/async/AsyncEmailTaskTest.java
+END
+FailingAsyncService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/async/FailingAsyncService.java
+END
+AsyncService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/bpmn/async/AsyncService.java
+END

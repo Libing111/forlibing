@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/servicetask
+END
+CallServiceInServiceTaskTest.testUseInjectedRuntimeServiceInServiceTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/servicetask/CallServiceInServiceTaskTest.testUseInjectedRuntimeServiceInServiceTask.bpmn20.xml
+END
+ServiceTaskVariablesTest.testSerializedVariablesThirdAsync.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/servicetask/ServiceTaskVariablesTest.testSerializedVariablesThirdAsync.bpmn20.xml
+END
+RepeatingServiceTaskTest.testMultipleInvocationsInSameTransation.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/servicetask/RepeatingServiceTaskTest.testMultipleInvocationsInSameTransation.bpmn20.xml
+END
+ServiceTaskVariablesTest.testSerializedVariablesBothAsync.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/servicetask/ServiceTaskVariablesTest.testSerializedVariablesBothAsync.bpmn20.xml
+END
+CallServiceInServiceTaskTest.testRollBackOnException.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/servicetask/CallServiceInServiceTaskTest.testRollBackOnException.bpmn20.xml
+END
+CallServiceInServiceTaskTest.testMultipleServiceInvocationsFromDelegate.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/servicetask/CallServiceInServiceTaskTest.testMultipleServiceInvocationsFromDelegate.bpmn20.xml
+END
+CallServiceInServiceTaskTest.testStartProcessFromDelegate.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/servicetask/CallServiceInServiceTaskTest.testStartProcessFromDelegate.bpmn20.xml
+END

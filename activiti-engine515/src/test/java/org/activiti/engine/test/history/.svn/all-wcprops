@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/history
+END
+HistoricTaskInstanceUpdateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/history/HistoricTaskInstanceUpdateTest.java
+END
+HistoricVariableInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/history/HistoricVariableInstanceTest.java
+END
+HistoricActivityInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/history/HistoricActivityInstanceTest.java
+END
+HistoricProcessInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/history/HistoricProcessInstanceTest.java
+END
+Noop.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/history/Noop.java
+END
+HistoricTaskInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/history/HistoricTaskInstanceTest.java
+END
+SerializableVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/history/SerializableVariable.java
+END

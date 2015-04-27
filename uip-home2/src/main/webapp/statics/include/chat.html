@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<!--框架必需start-->
+<script type="text/javascript" src="/home/libs/js/jquery.js"></script>
+<script type="text/javascript" src="/home/libs/js/framework.js"></script>
+<link href="../../../libs/css/import_basic.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" id="skin" prePath="/home/"/>
+<!--框架必需end-->
+
+<!--分隔条start-->
+<script type="text/javascript" src="/home/libs/js/nav/spliter.js"></script>
+<!--分隔条end-->
+<script>
+var $contentTa;
+var $inputTa;
+var username;
+$(function(){
+	resizeHandler();
+	window.onresize = function(){
+		resizeHandler();
+	}
+	$contentTa=$("#content");
+	$inputTa=$("#inputarea");
+})
+function resizeHandler(){
+	setTimeout(function(){
+		var wHeight=window.document.documentElement.clientHeight;
+		$("#content").height(wHeight-140);
+	},500)
+}
+function chatHandler(){
+	if($inputTa.val()==""){
+		alert("注意，内容不能为空")
+	} 
+	else{
+		var contentHtml=$contentTa.html();
+		var inputHtml=username+"："+$inputTa.val();
+		var newHtml;
+		if (window.navigator.userAgent.indexOf("MSIE") >= 1){
+			newHtml=contentHtml+inputHtml+"<br/>";
+		}
+		else{
+			newHtml=contentHtml+inputHtml+"\n";
+		}
+		$contentTa.html(newHtml);
+		$inputTa.val("");
+	}
+}
+function setUserName(name){
+	username=name;
+}
+function viewInfo(){
+	top.Dialog.open({URL:"../../sample/demo/user-management-content2.html",Title:"查看信息",Width:500,Height:330,Modal:false}); 
+}
+</script>
+</head>
+<body style="overflow:hidden;">
+	<div>
+		<table  cellpadding="0" cellspacing="0" style="width:100%">
+	        <tr>
+			<td style="width:100%">
+		        <div class="padding_right8 padding_top2 padding_bottom4">
+					<textarea readonly="readonly" style="width:100%;font-size:14px;" id="content"></textarea>
+				</div>
+	        </td>
+	        <td class="spliter spliterStyleV" beforeClickClass="spliterRight" afterClickClass="spliterLeft" beforeClickTip="收缩" afterClickTip="展开"  targetId="content8"></td>
+	        <td class="ver01">
+		        <div style="width:130px;" id="content8">
+		            <div class="padding_left5 padding_top10">
+				   		<img src="/home/statics/skin/communicate/msn.jpg"/>
+					</div>
+					<div class="padding_left20 padding_top15">
+				   		<button type="button" onclick="viewInfo()"><span class="icon_view">用户信息</span></button>
+					</div>
+		        </div>
+	        </td>
+			</tr>
+	    </table>
+	</div>
+	<div class="spliterStyleH" style="width:100%;border-left:solid 1px #cccccc;border-right:solid 1px #cccccc;"></div>
+	<div class="padding_right2 padding_top2">
+		<textarea style="width:100%;height:105px;;font-size:14px;" id="inputarea"></textarea>
+	</div>      
+</body>	
+</html>

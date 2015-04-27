@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/organization
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/organization/index.jsp
+END
+add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/organization/add.jsp
+END
+addProcessDefinition.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/organization/addProcessDefinition.jsp
+END
+addResource.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/webapp/WEB-INF/pages/definitions/organization/addResource.jsp
+END

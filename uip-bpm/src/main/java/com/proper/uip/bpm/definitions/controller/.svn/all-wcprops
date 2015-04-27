@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/definitions/controller
+END
+ProcessDefinitionManagementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/997/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/definitions/controller/ProcessDefinitionManagementController.java
+END
+BpmMonitorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/definitions/controller/BpmMonitorController.java
+END
+BpmAssignmentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/904/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/definitions/controller/BpmAssignmentController.java
+END
+BpmDefinitionsCategoryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/definitions/controller/BpmDefinitionsCategoryController.java
+END
+BpmDefinitionsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/java/com/proper/uip/bpm/definitions/controller/BpmDefinitionsController.java
+END

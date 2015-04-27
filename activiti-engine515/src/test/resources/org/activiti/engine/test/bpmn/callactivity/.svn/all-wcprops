@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity
+END
+CallActivity.testCallSimpleSubProcessWithExpressions.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/CallActivity.testCallSimpleSubProcessWithExpressions.bpmn20.xml
+END
+simpleSubProcess2.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/simpleSubProcess2.bpmn20.xml
+END
+CallActivity.testCallSimpleSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/CallActivity.testCallSimpleSubProcess.bpmn20.xml
+END
+CallActivity.testCallSequentialSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/CallActivity.testCallSequentialSubProcess.bpmn20.xml
+END
+CallActivity.testSubProcessEndsSuperProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/CallActivity.testSubProcessEndsSuperProcess.bpmn20.xml
+END
+CallActivity.testCallParallelSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/CallActivity.testCallParallelSubProcess.bpmn20.xml
+END
+CallActivity.testSubProcessDataInputOutput.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/CallActivity.testSubProcessDataInputOutput.bpmn20.xml
+END
+CallActivity.testTimerOnCallActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/CallActivity.testTimerOnCallActivity.bpmn20.xml
+END
+simpleParallelSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/simpleParallelSubProcess.bpmn20.xml
+END
+CallActivity.testTwoSubProcesses.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/CallActivity.testTwoSubProcesses.bpmn20.xml
+END
+simpleSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/callactivity/simpleSubProcess.bpmn20.xml
+END

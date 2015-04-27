@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar
+END
+BusinessCalendarManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/BusinessCalendarManager.java
+END
+CronExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/CronExpression.java
+END
+DueDateBusinessCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/DueDateBusinessCalendar.java
+END
+AdvancedSchedulerResolverWithoutTimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/AdvancedSchedulerResolverWithoutTimeZone.java
+END
+BusinessCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/BusinessCalendar.java
+END
+CycleBusinessCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/CycleBusinessCalendar.java
+END
+DurationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/DurationHelper.java
+END
+AdvancedSchedulerResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/AdvancedSchedulerResolver.java
+END
+BusinessCalendarImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/BusinessCalendarImpl.java
+END
+DefaultBusinessCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/DefaultBusinessCalendar.java
+END
+AdvancedCycleBusinessCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/AdvancedCycleBusinessCalendar.java
+END
+DurationBusinessCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/DurationBusinessCalendar.java
+END
+AdvancedSchedulerResolverWithTimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/AdvancedSchedulerResolverWithTimeZone.java
+END
+MapBusinessCalendarManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/calendar/MapBusinessCalendarManager.java
+END

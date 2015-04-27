@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/api/history
+END
+HistoryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/api/history/HistoryServiceTest.java
+END
+HistoricTaskAndVariablesQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/api/history/HistoricTaskAndVariablesQueryTest.java
+END
+HistoricProcessInstanceAndVariablesQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/api/history/HistoricProcessInstanceAndVariablesQueryTest.java
+END
+ProcessInstanceLogQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/engine/test/api/history/ProcessInstanceLogQueryTest.java
+END

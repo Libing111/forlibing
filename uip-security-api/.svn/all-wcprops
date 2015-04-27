@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/.classpath
+END
+mvn package.bat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/mvn%20package.bat
+END
+mvn deploy.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/mvn%20deploy.bat
+END
+.mymetadata
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/.mymetadata
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/pom.xml
+END
+mvn install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-api/mvn%20install.bat
+END

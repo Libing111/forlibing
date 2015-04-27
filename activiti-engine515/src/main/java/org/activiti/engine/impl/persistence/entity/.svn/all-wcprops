@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity
+END
+CommentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/CommentEntity.java
+END
+ExecutionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ExecutionEntity.java
+END
+HistoricProcessInstanceEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricProcessInstanceEntityManager.java
+END
+GroupIdentityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/GroupIdentityManager.java
+END
+IdentityInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/IdentityInfoEntity.java
+END
+HistoricProcessInstanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricProcessInstanceEntity.java
+END
+UserEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/UserEntity.java
+END
+PropertyEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/PropertyEntityManager.java
+END
+ResourceEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ResourceEntityManager.java
+END
+AttachmentEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/AttachmentEntityManager.java
+END
+PropertyEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/PropertyEntity.java
+END
+MembershipEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/MembershipEntityManager.java
+END
+ProcessDefinitionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ProcessDefinitionEntity.java
+END
+GroupEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/GroupEntityManager.java
+END
+AttachmentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/AttachmentEntity.java
+END
+ModelEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ModelEntityManager.java
+END
+GroupEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/GroupEntity.java
+END
+TaskEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/TaskEntityManager.java
+END
+ExecutionEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ExecutionEntityManager.java
+END
+ModelEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ModelEntity.java
+END
+ByteArrayEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ByteArrayEntity.java
+END
+IdentityLinkEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/IdentityLinkEntity.java
+END
+HistoricDetailEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricDetailEntity.java
+END
+HistoricIdentityLinkEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricIdentityLinkEntityManager.java
+END
+JobEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/JobEntity.java
+END
+VariableInstanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/VariableInstanceEntity.java
+END
+HistoricIdentityLinkEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricIdentityLinkEntity.java
+END
+HistoricVariableInstanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricVariableInstanceEntity.java
+END
+TimerEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/TimerEntity.java
+END
+EventSubscriptionEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/EventSubscriptionEntityManager.java
+END
+HistoricActivityInstanceEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricActivityInstanceEntityManager.java
+END
+ProcessDefinitionEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ProcessDefinitionEntityManager.java
+END
+UserIdentityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/UserIdentityManager.java
+END
+CommentEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/CommentEntityManager.java
+END
+IdentityLinkEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/IdentityLinkEntityManager.java
+END
+HistoricDetailEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricDetailEntityManager.java
+END
+MembershipIdentityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/MembershipIdentityManager.java
+END
+HistoricVariableInitializingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricVariableInitializingList.java
+END
+CompensateEventSubscriptionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/CompensateEventSubscriptionEntity.java
+END
+UserEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/UserEntityManager.java
+END
+SuspensionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/SuspensionState.java
+END
+HistoricVariableInstanceEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricVariableInstanceEntityManager.java
+END
+DeploymentEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/DeploymentEntityManager.java
+END
+TableDataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/TableDataManager.java
+END
+DeploymentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/DeploymentEntity.java
+END
+MessageEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/MessageEntity.java
+END
+MessageEventSubscriptionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/MessageEventSubscriptionEntity.java
+END
+ByteArrayEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ByteArrayEntityManager.java
+END
+IdentityInfoEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/IdentityInfoEntityManager.java
+END
+HistoricDetailAssignmentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricDetailAssignmentEntity.java
+END
+TaskEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/TaskEntity.java
+END
+ByteArrayRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ByteArrayRef.java
+END
+HistoricScopeInstanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricScopeInstanceEntity.java
+END
+VariableScopeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/VariableScopeImpl.java
+END
+JobEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/JobEntityManager.java
+END
+HistoricDetailVariableInstanceUpdateEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricDetailVariableInstanceUpdateEntity.java
+END
+VariableInstanceEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/VariableInstanceEntityManager.java
+END
+HistoricDetailTransitionInstanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricDetailTransitionInstanceEntity.java
+END
+HistoricFormPropertyEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricFormPropertyEntity.java
+END
+SignalEventSubscriptionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/SignalEventSubscriptionEntity.java
+END
+EventSubscriptionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/EventSubscriptionEntity.java
+END
+HistoricActivityInstanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricActivityInstanceEntity.java
+END
+ResourceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/ResourceEntity.java
+END
+HistoricTaskInstanceEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricTaskInstanceEntityManager.java
+END
+MembershipEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/MembershipEntity.java
+END
+HistoricTaskInstanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/HistoricTaskInstanceEntity.java
+END
+VariableInitializingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/VariableInitializingList.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/proper-uip-dev/!svn/ver/692/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/service
+END
+BpmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/692/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/service/BpmService.java
+END
+BpmScenarioStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/service/BpmScenarioStrategy.java
+END
+ProcessDefinitionCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/service/ProcessDefinitionCategoryService.java
+END

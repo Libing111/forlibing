@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/.classpath
+END
+mvn package.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/mvn%20package.bat
+END
+mvn deploy.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/mvn%20deploy.bat
+END
+.mymetadata
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/.mymetadata
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/pom.xml
+END
+mvn install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/mvn%20install.bat
+END

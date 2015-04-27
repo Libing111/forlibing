@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/resources
+END
+applicationContext-security-cas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/resources/applicationContext-security-cas.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/resources/readme.txt
+END
+applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/resources/applicationContext-security.xml
+END

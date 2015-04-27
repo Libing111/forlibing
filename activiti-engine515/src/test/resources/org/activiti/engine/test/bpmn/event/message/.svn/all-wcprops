@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message
+END
+MessageBoundaryEventTest.testSingleBoundaryMessageEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageBoundaryEventTest.testSingleBoundaryMessageEvent.bpmn20.xml
+END
+MessageEventSubprocessTest.testTwoInterruptingUnderProcessDefinition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageEventSubprocessTest.testTwoInterruptingUnderProcessDefinition.bpmn20.xml
+END
+MessageBoundaryEventTest.testBoundaryMessageEventInsideSubprocess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageBoundaryEventTest.testBoundaryMessageEventInsideSubprocess.bpmn20.xml
+END
+MessageBoundaryEventTest.testBoundaryMessageEventOnSubprocess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageBoundaryEventTest.testBoundaryMessageEventOnSubprocess.bpmn20.xml
+END
+MessageStartEventTest.testMessageStartEventAndNoneStartEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageStartEventTest.testMessageStartEventAndNoneStartEvent.bpmn20.xml
+END
+MessageEventSubprocessTest.testInterruptingUnderProcessDefinition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageEventSubprocessTest.testInterruptingUnderProcessDefinition.bpmn20.xml
+END
+MessageNonInterruptingBoundaryEventTest.testSingleNonInterruptingBoundaryMessageEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageNonInterruptingBoundaryEventTest.testSingleNonInterruptingBoundaryMessageEvent.bpmn20.xml
+END
+MessageIntermediateEventTest.testAsyncTriggeredMessageEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageIntermediateEventTest.testAsyncTriggeredMessageEvent.bpmn20.xml
+END
+MessageIntermediateEventTest.testSingleIntermediateMessageEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageIntermediateEventTest.testSingleIntermediateMessageEvent.bpmn20.xml
+END
+MessageIntermediateEventTest.testConcurrentIntermediateMessageEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageIntermediateEventTest.testConcurrentIntermediateMessageEvent.bpmn20.xml
+END
+MessageBoundaryEventTest.testDoubleBoundaryMessageEventSameMessageId.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageBoundaryEventTest.testDoubleBoundaryMessageEventSameMessageId.bpmn20.xml
+END
+MessageStartEventTest.testMultipleMessageStartEvents.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageStartEventTest.testMultipleMessageStartEvents.bpmn20.xml
+END
+testSameMessageNameInSameProcessFails.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/testSameMessageNameInSameProcessFails.bpmn20.xml
+END
+otherProcessWithNewInvoiceMessage.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/otherProcessWithNewInvoiceMessage.bpmn20.xml
+END
+MessageEventSubprocessTest.testNonInterruptingUnderProcessDefinition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageEventSubprocessTest.testNonInterruptingUnderProcessDefinition.bpmn20.xml
+END
+MessageStartEventTest.testSingleMessageStartEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageStartEventTest.testSingleMessageStartEvent.bpmn20.xml
+END
+MessageBoundaryEventTest.testDoubleBoundaryMessageEventMultiInstance.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageBoundaryEventTest.testDoubleBoundaryMessageEventMultiInstance.bpmn20.xml
+END
+MessageBoundaryEventTest.testDoubleBoundaryMessageEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageBoundaryEventTest.testDoubleBoundaryMessageEvent.bpmn20.xml
+END
+MessageBoundaryEventTest.testBoundaryMessageEventOnSubprocessAndInsideSubprocessMultiInstance.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageBoundaryEventTest.testBoundaryMessageEventOnSubprocessAndInsideSubprocessMultiInstance.bpmn20.xml
+END
+MessageBoundaryEventTest.testBoundaryMessageEventOnSubprocessAndInsideSubprocess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/message/MessageBoundaryEventTest.testBoundaryMessageEventOnSubprocessAndInsideSubprocess.bpmn20.xml
+END

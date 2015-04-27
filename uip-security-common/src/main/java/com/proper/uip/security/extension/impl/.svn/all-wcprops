@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/738/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/extension/impl
+END
+RuleAllDeparmentRoleExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/proper-uip-dev/!svn/ver/738/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/extension/impl/RuleAllDeparmentRoleExtensionImpl.java
+END
+RoleFilterRulePostExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/790/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/extension/impl/RoleFilterRulePostExtensionImpl.java
+END
+RoleFilterRuleAllUserExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/729/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/extension/impl/RoleFilterRuleAllUserExtensionImpl.java
+END
+RoleFilterRuleAllDeparmentExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/proper-uip-dev/!svn/ver/790/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/extension/impl/RoleFilterRuleAllDeparmentExtensionImpl.java
+END
+RaCategoryInactivationExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/extension/impl/RaCategoryInactivationExtensionImpl.java
+END
+RoleFilterRuleUserExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/802/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/extension/impl/RoleFilterRuleUserExtensionImpl.java
+END
+RoleFilterRuleDeparmentExtensionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/794/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/extension/impl/RoleFilterRuleDeparmentExtensionImpl.java
+END

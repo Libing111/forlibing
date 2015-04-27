@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/cfg/standalone
+END
+StandaloneMybatisTransactionContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/cfg/standalone/StandaloneMybatisTransactionContextFactory.java
+END
+StandaloneMybatisTransactionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/cfg/standalone/StandaloneMybatisTransactionContext.java
+END

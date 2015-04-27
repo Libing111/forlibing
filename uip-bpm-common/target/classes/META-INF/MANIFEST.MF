@@ -1,0 +1,56 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 1.6.0_13
+Class-Path: spring-orm-3.2.0.RELEASE.jar spring-core-3.2.0.RELEASE.jar
+  spring-jdbc-3.2.0.RELEASE.jar spring-tx-3.2.0.RELEASE.jar aopallianc
+ e-1.0.jar spring-beans-3.2.0.RELEASE.jar spring-security-core-3.1.4.R
+ ELEASE.jar spring-aop-3.2.0.RELEASE.jar spring-context-3.2.0.RELEASE.
+ jar spring-expression-3.0.7.RELEASE.jar spring-security-web-3.1.4.REL
+ EASE.jar spring-web-3.0.7.RELEASE.jar spring-security-config-3.1.4.RE
+ LEASE.jar spring-security-acl-3.1.4.RELEASE.jar spring-security-crypt
+ o-3.1.4.RELEASE.jar spring-security-taglibs-3.1.4.RELEASE.jar spring-
+ security-cas-3.1.4.RELEASE.jar cas-client-core-3.1.12.jar hibernate-c
+ ore-4.2.1.Final.jar antlr-2.7.7.jar jboss-logging-3.1.0.GA.jar dom4j-
+ 1.6.1.jar jboss-transaction-api_1.1_spec-1.0.1.Final.jar hibernate-jp
+ a-2.0-api-1.0.1.Final.jar javassist-3.15.0-GA.jar hibernate-commons-a
+ nnotations-4.0.1.Final.jar hibernate-entitymanager-4.2.1.Final.jar hi
+ bernate-envers-4.2.1.Final.jar hibernate-ehcache-4.2.1.Final.jar ehca
+ che-core-2.4.3.jar slf4j-api-1.6.4.jar hibernate-c3p0-4.2.1.Final.jar
+  c3p0-0.9.1.jar hibernate-infinispan-4.2.1.Final.jar infinispan-core-
+ 5.2.0.Beta3.jar jgroups-3.2.0.CR1.jar jboss-marshalling-river-1.3.15.
+ GA.jar jboss-marshalling-1.3.15.GA.jar staxmapper-1.1.0.Final.jar woo
+ dstox-core-asl-4.1.1.jar stax2-api-3.1.1.jar rhq-pluginAnnotations-3.
+ 0.4.jar hibernate-proxool-4.2.1.Final.jar proxool-0.8.3.jar servlet-a
+ pi-2.5.jar commons-logging-1.1.1.jar commons-lang-2.4.jar commons-col
+ lections-3.2.1.jar json-lib-2.4-jdk15.jar commons-beanutils-1.8.0.jar
+  ezmorph-1.0.6.jar jackson-core-asl-1.9.11.jar jackson-mapper-lgpl-1.
+ 9.11.jar jackson-core-lgpl-1.9.11.jar uip-common-utils-3.0-20150407.0
+ 92029-10.jar spring-context-support-3.2.0.RELEASE.jar uip-security-ap
+ i-3.0-SNAPSHOT.jar uip-security-common-3.0-SNAPSHOT.jar proper-platfo
+ rm-utils-4.0-20150303.090055-3.jar pinyin4j-2.5.0.jar httpcore-4.1.4.
+ jar httpclient-4.1.3.jar commons-codec-1.4.jar slf4j-simple-1.6.4.jar
+  commons-io-2.0.1.jar proper-platform-app-api-4.0-20150112.003741-18.
+ jar proper-platform-app-common-4.0-20150112.003616-14.jar uip-bpm-api
+ -3.0-SNAPSHOT.jar activiti-spring-5.15.jar commons-lang3-3.1.jar comm
+ ons-dbcp-1.4.jar commons-pool-1.5.4.jar jcl-over-slf4j-1.7.2.jar acti
+ viti-engine-5.15.jar activiti-bpmn-converter-5.15.jar activiti-bpmn-m
+ odel-5.15.jar activiti-process-validation-5.15.jar commons-email-1.2.
+ jar mail-1.4.1.jar activation-1.1.jar mybatis-3.2.5.jar joda-time-2.1
+ .jar proper-hr-personnel-api-4.0-SNAPSHOT.jar spring-webmvc-3.2.0.REL
+ EASE.jar jackson-mapper-asl-1.9.11.jar aspectjrt-1.6.10.jar aspectjwe
+ aver-1.6.10.jar proper-hr-personnel-common-4.0-SNAPSHOT.jar proper-hr
+ -organization-api-4.0-20150313.031903-31.jar proper-hr-organization-c
+ ommon-4.0-20150313.032101-22.jar proper-hr-job-api-4.0-20150304.03255
+ 7-6.jar proper-hr-job-common-4.0-20150304.032626-11.jar uip-desktop-a
+ pi-3.0-SNAPSHOT.jar uip-message-reminding-api-3.0-20150306.032245-4.j
+ ar uip-message-reminding-common-3.0-20150306.032304-2.jar
+Specification-Title: uip-bpm-common
+Specification-Version: 3.0-SNAPSHOT
+Specification-Vendor: Proper
+Implementation-Title: uip-bpm-common
+Implementation-Version: 3.0-SNAPSHOT
+Implementation-Vendor-Id: com.proper.uip
+Implementation-Vendor: Proper
+Created-By: Maven Integration for Eclipse
+Implementation-Revision: 
+

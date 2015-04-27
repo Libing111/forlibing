@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener
+END
+AssigneeOverwriteFromVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/AssigneeOverwriteFromVariable.java
+END
+TaskAssignmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/TaskAssignmentListener.java
+END
+TaskCompleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/TaskCompleteListener.java
+END
+CandidateGroupAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/CandidateGroupAssignment.java
+END
+CandidateUserAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/CandidateUserAssignment.java
+END
+CustomTaskAssignmentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/CustomTaskAssignmentTest.java
+END
+TaskAllEventsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/TaskAllEventsListener.java
+END
+AssigneeAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/AssigneeAssignment.java
+END
+TaskListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/TaskListenerTest.java
+END
+TaskDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/TaskDeleteListener.java
+END
+TaskSimpleCompleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/TaskSimpleCompleteListener.java
+END
+TaskCreateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/TaskCreateListener.java
+END
+ScriptTaskListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/java/org/activiti/examples/bpmn/tasklistener/ScriptTaskListenerTest.java
+END

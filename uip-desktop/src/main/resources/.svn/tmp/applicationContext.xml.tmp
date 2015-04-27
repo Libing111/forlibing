@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:jee="http://www.springframework.org/schema/jee" xmlns:tx="http://www.springframework.org/schema/tx"
+    xmlns:context="http://www.springframework.org/schema/context" xmlns:aop="http://www.springframework.org/schema/aop"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd"
+       default-autowire="byName">
+    <bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>  
+    
+    <context:property-placeholder location="classpath*:conf.properties"/>
+       
+    <import resource="database/database-context.xml" />
+    
+	<!-- 使用annotation 自动注册bean, 先不扫描 Controller注解,否则不开启自动事务 -->
+	<context:component-scan base-package="com.proper" />
+
+	<import resource="security/applicationContext-security.xml" />
+<<<<<<< .mine
+    <import resource="extension/applicationContext-role-rule-extension.xml" />
+
+=======
+    <import resource="extesion/applicationContext-role-rule-extension.xml" />
+>>>>>>> .r880
+	<bean id="systemCategory" class="java.lang.String">
+		<constructor-arg value="${system.category}"></constructor-arg>
+	</bean>
+	
+		
+	<!--运维中心系统策略-->
+ 	<bean id="system.category.omc" class="com.proper.uip.api.desktop.service.SystemCategoryStrategy"> 
+ 		<property name="systemCategoryCode" value="system.category.omc"/> 
+ 		<property name="resouceCategoryCodeList"> 
+         		<list> 
+         		    <value>resource.category.common</value> 
+             		<value>resource.category.omc</value> 
+            	</list> 
+         </property> 
+ 	</bean> 
+	
+	<!--管理平台系统策略-->
+	<bean id="system.category.management" class="com.proper.uip.api.desktop.service.SystemCategoryStrategy"> 
+		<property name="systemCategoryCode" value="system.category.management"/>
+		<property name="resouceCategoryCodeList"> 
+         		<list> 
+         		    <value>resource.category.common</value> 
+            		<value>resource.category.management</value>
+           	</list> 
+         </property> 
+ 	</bean> 
+	
+	<!--服务平台系统策略-->
+ 	<bean id="system.category.service" class="com.proper.uip.api.desktop.service.SystemCategoryStrategy"> 
+ 		<property name="systemCategoryCode" value="system.category.service"/> 
+ 		<property name="resouceCategoryCodeList"> 
+         		<list> 
+        		    <value>resource.category.common</value>
+            		<value>resource.category.service</value>
+            	</list> 
+         </property> 
+ 	</bean> 
+	
+	<!--政务后台系统策略-->
+	<bean id="system.category.management.government" class="com.proper.uip.api.desktop.service.SystemCategoryStrategy"> 
+		<property name="systemCategoryCode" value="system.category.management.government"/>
+		<property name="resouceCategoryCodeList"> 
+         		<list> 
+         		    <value>resource.category.common</value> 
+            		<value>resource.category.management.government</value>
+           	</list> 
+         </property> 
+ 	</bean> 
+	
+	<!--政务会员系统策略-->
+ 	<bean id="system.category.service.government" class="com.proper.uip.api.desktop.service.SystemCategoryStrategy"> 
+ 		<property name="systemCategoryCode" value="system.category.service.government"/> 
+ 		<property name="resouceCategoryCodeList"> 
+         		<list> 
+        		    <value>resource.category.common</value>
+            		<value>resource.category.service.government</value>
+            	</list> 
+         </property> 
+ 	</bean> 
+	
+	<!--企业后台系统策略-->
+ 	<bean id="system.category.management.enterprise" class="com.proper.uip.api.desktop.service.SystemCategoryStrategy"> 
+ 		<property name="systemCategoryCode" value="system.category.management.enterprise"/> 
+ 		<property name="resouceCategoryCodeList"> 
+         		<list> 
+        		    <value>resource.category.common</value>
+            		<value>resource.category.management.enterprise</value>
+            	</list> 
+         </property> 
+ 	</bean> 
+	
+	<!--企业会员系统策略-->
+ 	<bean id="system.category.service.enterprise" class="com.proper.uip.api.desktop.service.SystemCategoryStrategy"> 
+ 		<property name="systemCategoryCode" value="system.category.service.enterprise"/> 
+ 		<property name="resouceCategoryCodeList"> 
+         		<list> 
+        		    <value>resource.category.common</value>
+            		<value>resource.category.service.enterprise</value>
+            	</list> 
+         </property> 
+ 	</bean> 
+	
+	<!--代理商后台系统策略-->
+ 	<bean id="system.category.management.agent" class="com.proper.uip.api.desktop.service.SystemCategoryStrategy"> 
+ 		<property name="systemCategoryCode" value="system.category.management.agent"/> 
+ 		<property name="resouceCategoryCodeList"> 
+         		<list> 
+        		    <value>resource.category.common</value>
+            		<value>resource.category.management.agent</value>
+            	</list> 
+         </property> 
+ 	</bean> 
+</beans>

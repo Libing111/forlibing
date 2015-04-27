@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess
+END
+SubProcessTest.testNestedSimpleSubProcess.png
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testNestedSimpleSubProcess.png
+END
+SubProcessTest.testSimpleSubProcessWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleSubProcessWithTimer.bpmn20.xml
+END
+SubProcessTest.testDoubleNestedSimpleSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testDoubleNestedSimpleSubProcess.bpmn20.xml
+END
+SubProcessTest.testSimpleSubProcessWithConcurrentTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleSubProcessWithConcurrentTimer.bpmn20.xml
+END
+SubProcessTest.testSimpleSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleSubProcess.bpmn20.xml
+END
+SubProcessTest.testSimpleParallelSubProcessWithTimer.png
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleParallelSubProcessWithTimer.png
+END
+SubProcessTest.testNestedSimpleSubprocessWithTimerOnInnerSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testNestedSimpleSubprocessWithTimerOnInnerSubProcess.bpmn20.xml
+END
+SubProcessTest.testNestedSimpleSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testNestedSimpleSubProcess.bpmn20.xml
+END
+SubProcessTest.testTwoNestedSubProcessesInParallelWithTimer.png
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testTwoNestedSubProcessesInParallelWithTimer.png
+END
+SubProcessTest.testSimpleParallelSubProcess.png
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleParallelSubProcess.png
+END
+SubProcessTest.testSimpleAutomaticSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleAutomaticSubProcess.bpmn20.xml
+END
+SubProcessTest.testTwoSubProcessInParallelWithinSubProcess.png
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testTwoSubProcessInParallelWithinSubProcess.png
+END
+SubProcessTest.testSimpleParallelSubProcessWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleParallelSubProcessWithTimer.bpmn20.xml
+END
+SubProcessTest.testTwoSubProcessInParallel.png
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testTwoSubProcessInParallel.png
+END
+SubProcessTest.testTwoNestedSubProcessesInParallelWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testTwoNestedSubProcessesInParallelWithTimer.bpmn20.xml
+END
+SubProcessTest.testSimpleParallelSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleParallelSubProcess.bpmn20.xml
+END
+SubProcessTest.testSimpleSubProcessWithoutEndEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleSubProcessWithoutEndEvent.bpmn20.xml
+END
+SubProcessTest.testNestedSimpleSubProcessWithoutEndEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testNestedSimpleSubProcessWithoutEndEvent.bpmn20.xml
+END
+SubProcessTest.testTwoSubProcessInParallelWithinSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testTwoSubProcessInParallelWithinSubProcess.bpmn20.xml
+END
+SubProcessTest.testNestedSubProcessesWithoutEndEvents.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testNestedSubProcessesWithoutEndEvents.bpmn20.xml
+END
+SubProcessTest.testTwoSubProcessInParallel.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testTwoSubProcessInParallel.bpmn20.xml
+END
+SubProcessTest.testDoubleNestedSimpleSubProcess.png
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testDoubleNestedSimpleSubProcess.png
+END
+SubProcessTest.testSimpleSubProcessWithConcurrentTimer.png
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testSimpleSubProcessWithConcurrentTimer.png
+END
+SubProcessTest.testDataObjectScope.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testDataObjectScope.bpmn20.xml
+END
+SubProcessTest.testNestedSimpleSubprocessWithTimerOnInnerSubProcess.png
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/subprocess/SubProcessTest.testNestedSimpleSubprocessWithTimerOnInnerSubProcess.png
+END

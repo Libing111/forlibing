@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository
+END
+nonSchemaConformantXml.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/nonSchemaConformantXml.bpmn20.xml
+END
+processCategoryThree.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/processCategoryThree.bpmn20.xml
+END
+ProcessDefinitionCategoryTest.testSetProcessDefinitionCategory.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/ProcessDefinitionCategoryTest.testSetProcessDefinitionCategory.bpmn20.xml
+END
+BpmnWithUnsafeXmlContent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/BpmnWithUnsafeXmlContent.bpmn20.xml
+END
+noWayPointsForSequenceFlowInDiagramInterchange.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/noWayPointsForSequenceFlowInDiagramInterchange.bpmn20.xml
+END
+processCategoryTwo.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/processCategoryTwo.bpmn20.xml
+END
+processWithNewInvoiceMessage.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/processWithNewInvoiceMessage.bpmn20.xml
+END
+test-processes.zip
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/test-processes.zip
+END
+RepositoryServiceTest.testGetBpmnModel.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/RepositoryServiceTest.testGetBpmnModel.bpmn
+END
+processCategoryOne.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/processCategoryOne.bpmn20.xml
+END
+ProcessDefinitionSuspensionTest.testJobIsExecutedOnProcessDefinitionSuspend.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/ProcessDefinitionSuspensionTest.testJobIsExecutedOnProcessDefinitionSuspend.bpmn20.xml
+END
+processWithNewBookingMessage.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/repository/processWithNewBookingMessage.bpmn20.xml
+END

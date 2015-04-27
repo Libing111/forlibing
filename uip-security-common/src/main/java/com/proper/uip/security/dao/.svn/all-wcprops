@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/proper-uip-dev/!svn/ver/664/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao
+END
+UserCategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/UserCategoryDao.java
+END
+RegistrationAuthorityDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/RegistrationAuthorityDao.java
+END
+RolesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/703/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/RolesDao.java
+END
+RaResourceSetRelationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/RaResourceSetRelationDao.java
+END
+ResourceCategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/ResourceCategoryDao.java
+END
+RacateRessetDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/RacateRessetDao.java
+END
+RoleRuleRelationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/658/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/RoleRuleRelationDao.java
+END
+UsercateRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/UsercateRoleDao.java
+END
+RoleUserRelationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/RoleUserRelationDao.java
+END
+RoleCategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/RoleCategoryDao.java
+END
+ResourceMocDefinitionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/ResourceMocDefinitionDao.java
+END
+RaCategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/RaCategoryDao.java
+END
+UsersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/UsersDao.java
+END
+ResourceSetDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/ResourceSetDao.java
+END
+RoleResourceRelationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/RoleResourceRelationDao.java
+END
+ResourceResourceSetRelationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/ResourceResourceSetRelationDao.java
+END
+ResourcesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/dao/ResourcesDao.java
+END

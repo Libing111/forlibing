@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history
+END
+FullHistoryTest.testHistoricFormPropertiesOnReEnteringActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testHistoricFormPropertiesOnReEnteringActivity.bpmn20.xml
+END
+FullHistoryTest.testHistoricTaskInstanceQueryTaskVariableValueEquals.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testHistoricTaskInstanceQueryTaskVariableValueEquals.bpmn20.xml
+END
+FullHistoryTest.testHistoricDetailQueryMixed.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testHistoricDetailQueryMixed.bpmn20.xml
+END
+FullHistoryTest.testHistoricFormProperties.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testHistoricFormProperties.bpmn20.xml
+END
+FullHistoryTest.testHistoricProcessInstanceVariableValueEquals.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testHistoricProcessInstanceVariableValueEquals.bpmn20.xml
+END
+FullHistoryTest.testHistoricTaskInstanceVariableUpdates.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testHistoricTaskInstanceVariableUpdates.bpmn20.xml
+END
+FullHistoryTest.testVariableUpdatesAreLinkedToActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testVariableUpdatesAreLinkedToActivity.bpmn20.xml
+END
+FullHistoryTest.testDeleteHistoricProcessInstance.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testDeleteHistoricProcessInstance.bpmn20.xml
+END
+FullHistoryTest.testVariableUpdates.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testVariableUpdates.bpmn20.xml
+END
+FullHistoryTest.testDeleteRunningHistoricProcessInstance.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testDeleteRunningHistoricProcessInstance.bpmn20.xml
+END
+fullhistory.activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/fullhistory.activiti.cfg.xml
+END
+FullHistoryTest.testHistoricVariableUpdatesAllTypes.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testHistoricVariableUpdatesAllTypes.bpmn20.xml
+END
+FullHistoryTest.testHistoricTaskInstanceQueryProcessVariableValueEquals.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testHistoricTaskInstanceQueryProcessVariableValueEquals.bpmn20.xml
+END
+FullHistoryTest.testSetVariableOnProcessInstanceWithTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/history/FullHistoryTest.testSetVariableOnProcessInstanceWithTimer.bpmn20.xml
+END

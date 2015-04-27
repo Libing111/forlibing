@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/variables
+END
+VariablesTest.testChangeTypeSerializable.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/variables/VariablesTest.testChangeTypeSerializable.bpmn20.xml
+END
+VariablesTest.testNullVariable.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/variables/VariablesTest.testNullVariable.bpmn20.xml
+END
+VariablesTest.testUUIDVariableAndQuery.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/variables/VariablesTest.testUUIDVariableAndQuery.bpmn20.xml
+END
+VariablesTest.testBasicVariableOperations.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/variables/VariablesTest.testBasicVariableOperations.bpmn20.xml
+END

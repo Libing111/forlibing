@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/el
+END
+ExpressionManagerTest.testAuthenticatedUserIdAvailable.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/el/ExpressionManagerTest.testAuthenticatedUserIdAvailable.bpmn20.xml
+END
+ExpressionManagerTest.testMethodExpressions.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/el/ExpressionManagerTest.testMethodExpressions.bpmn20.xml
+END
+ExpressionManagerTest.testExecutionAvailable.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/el/ExpressionManagerTest.testExecutionAvailable.bpmn20.xml
+END

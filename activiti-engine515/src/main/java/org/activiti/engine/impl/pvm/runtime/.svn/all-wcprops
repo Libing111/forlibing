@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime
+END
+AtomicOperationActivityEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationActivityEnd.java
+END
+AtomicOperationProcessStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationProcessStart.java
+END
+AtomicOperationTransitionNotifyListenerTake.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationTransitionNotifyListenerTake.java
+END
+AtomicOperationTransitionDestroyScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationTransitionDestroyScope.java
+END
+OutgoingExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/OutgoingExecution.java
+END
+StartingExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/StartingExecution.java
+END
+AtomicOperationProcessEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationProcessEnd.java
+END
+AbstractEventAtomicOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AbstractEventAtomicOperation.java
+END
+AtomicOperationProcessStartInitial.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationProcessStartInitial.java
+END
+AtomicOperationDeleteCascade.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationDeleteCascade.java
+END
+InterpretableExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/InterpretableExecution.java
+END
+ExecutionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/ExecutionImpl.java
+END
+AtomicOperationTransitionNotifyListenerStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationTransitionNotifyListenerStart.java
+END
+AtomicOperationTransitionCreateScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationTransitionCreateScope.java
+END
+AtomicOperationActivityStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationActivityStart.java
+END
+AtomicOperationActivityExecute.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationActivityExecute.java
+END
+AtomicOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperation.java
+END
+AtomicOperationTransitionNotifyListenerEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationTransitionNotifyListenerEnd.java
+END
+AtomicOperationDeleteCascadeFireActivityEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/java/org/activiti/engine/impl/pvm/runtime/AtomicOperationDeleteCascadeFireActivityEnd.java
+END

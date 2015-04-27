@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<urlrewrite>
+	<rule>
+        <condition operator="notequal" next="and" type="request-uri">.*.jsp</condition>
+        <from>^(/system/.*)$</from>
+        <to/>
+    </rule>
+    
+	<rule>
+        <condition operator="notequal" next="and" type="request-uri">.*.jsp</condition>
+        <from>^(/libs/.*)$</from>
+        <to/>
+    </rule>
+    
+    <rule>
+        <condition operator="notequal" next="and" type="request-uri">.*.jsp</condition>
+        <from>^(/.*\..*)$</from>
+        <to>/static$1</to>
+    </rule>
+
+</urlrewrite>

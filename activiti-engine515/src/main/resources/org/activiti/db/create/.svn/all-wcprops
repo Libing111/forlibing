@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create
+END
+activiti.mysql.create.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.mysql.create.history.sql
+END
+activiti.oracle.create.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.oracle.create.history.sql
+END
+activiti.postgres.create.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.postgres.create.history.sql
+END
+activiti.db2.create.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.db2.create.history.sql
+END
+activiti.h2.create.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.h2.create.history.sql
+END
+activiti.mysql.create.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.mysql.create.engine.sql
+END
+activiti.oracle.create.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.oracle.create.engine.sql
+END
+activiti.postgres.create.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.postgres.create.engine.sql
+END
+activiti.db2.create.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.db2.create.engine.sql
+END
+activiti.h2.create.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.h2.create.engine.sql
+END
+activiti.mysql55.create.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.mysql55.create.history.sql
+END
+activiti.mysql55.create.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.mysql55.create.engine.sql
+END
+activiti.mssql.create.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.mssql.create.identity.sql
+END
+activiti.oracle.create.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.oracle.create.identity.sql
+END
+activiti.mysql.create.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.mysql.create.identity.sql
+END
+activiti.postgres.create.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.postgres.create.identity.sql
+END
+activiti.mssql.create.history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.mssql.create.history.sql
+END
+activiti.db2.create.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.db2.create.identity.sql
+END
+activiti.h2.create.identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.h2.create.identity.sql
+END
+activiti.mssql.create.engine.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/main/resources/org/activiti/db/create/activiti.mssql.create.engine.sql
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/scripttask
+END
+ScriptTaskTest.testAutoStoreVariables.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/scripttask/ScriptTaskTest.testAutoStoreVariables.bpmn20.xml
+END
+ScriptTaskTest.testFailingScript.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/scripttask/ScriptTaskTest.testFailingScript.bpmn20.xml
+END
+ScriptTaskTest.testNoScriptProvided.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/scripttask/ScriptTaskTest.testNoScriptProvided.bpmn20.xml
+END
+ScriptTaskTest.testSetScriptResultToProcessVariable.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/scripttask/ScriptTaskTest.testSetScriptResultToProcessVariable.bpmn20.xml
+END
+ScriptTaskTest.testExceptionThrownInScript.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/scripttask/ScriptTaskTest.testExceptionThrownInScript.bpmn20.xml
+END

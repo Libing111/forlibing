@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/proper-uip-dev/!svn/ver/519/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/service
+END
+QuickApplicationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/proper-uip-dev/!svn/ver/314/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/service/QuickApplicationService.java
+END
+ApplicationAndGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/842/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/service/ApplicationAndGroupService.java
+END
+SystemCategoryStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-desktop-api/src/main/java/com/proper/uip/api/desktop/service/SystemCategoryStrategy.java
+END

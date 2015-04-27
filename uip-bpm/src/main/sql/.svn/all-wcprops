@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/sql
+END
+bpm-install.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/sql/bpm-install.sql
+END
+bpm-update(v1.0-v2.0).sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/sql/bpm-update(v1.0-v2.0).sql
+END
+资源添加机构流程设置.sql
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/sql/%E8%B5%84%E6%BA%90%E6%B7%BB%E5%8A%A0%E6%9C%BA%E6%9E%84%E6%B5%81%E7%A8%8B%E8%AE%BE%E7%BD%AE.sql
+END

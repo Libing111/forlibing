@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/authorization
+END
+StartAuthorizationTest.testIdentityLinks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/authorization/StartAuthorizationTest.testIdentityLinks.bpmn20.xml
+END
+StartAuthorizationTest.testPotentialStarterNoDefinition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/authorization/StartAuthorizationTest.testPotentialStarterNoDefinition.bpmn20.xml
+END
+StartAuthorizationTest.testProcessDefinitionList.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/authorization/StartAuthorizationTest.testProcessDefinitionList.bpmn20.xml
+END
+StartAuthorizationTest.testAddAndRemoveIdentityLinks.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/authorization/StartAuthorizationTest.testAddAndRemoveIdentityLinks.bpmn20.xml
+END
+StartAuthorizationTest.testPotentialStarter.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/authorization/StartAuthorizationTest.testPotentialStarter.bpmn20.xml
+END

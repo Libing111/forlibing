@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async
+END
+AsyncTaskTest.testAsycScript.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsycScript.bpmn20.xml
+END
+AsyncEmailTaskTest.testSimpleTextMailSendTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncEmailTaskTest.testSimpleTextMailSendTask.bpmn20.xml
+END
+AsyncTaskTest.testAsycServiceNoListeners.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsycServiceNoListeners.bpmn20.xml
+END
+AsyncTaskTest.testAsycCallActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsycCallActivity.bpmn20.xml
+END
+AsyncEmailTaskTest.testSimpleTextMail.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncEmailTaskTest.testSimpleTextMail.bpmn20.xml
+END
+AsyncTaskTest.testAsycServiceListeners.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsycServiceListeners.bpmn20.xml
+END
+AsyncTaskTest.testAsycServiceSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsycServiceSubProcess.bpmn20.xml
+END
+AsyncTaskTest.testAsycServiceSubProcessTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsycServiceSubProcessTimer.bpmn20.xml
+END
+AsyncTaskTest.testBasicAsycCallActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testBasicAsycCallActivity.bpmn20.xml
+END
+AsyncTaskTest.testFailingAsycServiceTimer.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testFailingAsycServiceTimer.bpmn20.xml
+END
+AsyncTaskTest.testAsyncServiceMultiInstance.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsyncServiceMultiInstance.bpmn20.xml
+END
+AsyncTaskTest.testAsyncUserTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsyncUserTask.bpmn20.xml
+END
+AsyncTaskTest.testAsycTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsycTask.bpmn20.xml
+END
+AsyncTaskTest.testAsycServiceConcurrent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/async/AsyncTaskTest.testAsycServiceConcurrent.bpmn20.xml
+END

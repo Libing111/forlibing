@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<!--框架必需start-->
+<script type="text/javascript" src="../../../libs/js/jquery.js"></script>
+<script type="text/javascript" src="../../../libs/js/framework.js"></script>
+<link href="../../../libs/css/import_basic.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" id="skin" prePath="../../../"/>
+<!--框架必需end-->
+<script>
+	$(function(){
+		$(".picItem2").click(function(){
+			var bgsrc=$(this).attr("bgsrc");
+			top.Dialog.confirm("确定应用该背景吗？",function(){
+				top.changeStyle(bgsrc);
+				top.Dialog.close()
+			})
+		})
+	})
+</script>
+</head>
+<body>
+	<div class="picItem2 hand" bgsrc="skin/bg/bg.jpg"><img src="../skin/bg/bg_min.jpg"/></div>
+	<div class="picItem2 hand" bgsrc="skin/bg/bg2.jpg"><img src="../skin/bg/bg2_min.jpg"/></div>
+	<div class="picItem2 hand" bgsrc="skin/bg/bg3.jpg"><img src="../skin/bg/bg3_min.jpg"/></div>
+	<div class="picItem2 hand" bgsrc="skin/bg/bg4.jpg"><img src="../skin/bg/bg4_min.jpg"/></div>
+	<div class="picItem2 hand" bgsrc="skin/bg/bg5.jpg"><img src="../skin/bg/bg5_min.jpg"/></div>
+	<div class="picItem2 hand" bgsrc="skin/bg/bg6.jpg"><img src="../skin/bg/bg6_min.jpg"/></div>
+	<div class="picItem2 hand" bgsrc="skin/bg/bg7.jpg"><img src="../skin/bg/bg7_min.jpg"/></div>
+	<div class="picItem2 hand" bgsrc="skin/bg/bg8.jpg"><img src="../skin/bg/bg8_min.jpg"/></div>
+	<div class="picItem2 hand" bgsrc="skin/bg/bg9.jpg"><img src="../skin/bg/bg9_min.jpg"/></div>
+</body>	
+</html>

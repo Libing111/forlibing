@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/executionlistener
+END
+ExecutionListenersStartEndEvent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/executionlistener/ExecutionListenersStartEndEvent.bpmn20.xml
+END
+ExecutionListenersProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/executionlistener/ExecutionListenersProcess.bpmn20.xml
+END
+CustomFlowExecutionListenerTest.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/executionlistener/CustomFlowExecutionListenerTest.bpmn20.xml
+END
+ExecutionListenersCurrentActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/executionlistener/ExecutionListenersCurrentActivity.bpmn20.xml
+END
+ScriptExecutionListenerTest.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/executionlistener/ScriptExecutionListenerTest.bpmn20.xml
+END
+custom.flow.parse.handler.activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/executionlistener/custom.flow.parse.handler.activiti.cfg.xml
+END
+ExecutionListenersFieldInjectionProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/executionlistener/ExecutionListenersFieldInjectionProcess.bpmn20.xml
+END

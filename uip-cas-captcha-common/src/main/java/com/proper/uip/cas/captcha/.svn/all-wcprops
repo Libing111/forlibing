@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/src/main/java/com/proper/uip/cas/captcha
+END
+GMailEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/src/main/java/com/proper/uip/cas/captcha/GMailEngine.java
+END
+CaptchaUsernamePasswordCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/src/main/java/com/proper/uip/cas/captcha/CaptchaUsernamePasswordCredentials.java
+END
+CaptchaServiceSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-cas-captcha-common/src/main/java/com/proper/uip/cas/captcha/CaptchaServiceSingleton.java
+END

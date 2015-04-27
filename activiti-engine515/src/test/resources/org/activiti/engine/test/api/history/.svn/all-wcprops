@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/history
+END
+HistoricTaskAndVariablesQueryTest.testCandidate.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/history/HistoricTaskAndVariablesQueryTest.testCandidate.bpmn20.xml
+END
+HistoricTaskAndVariablesQueryTest.testQuery.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/history/HistoricTaskAndVariablesQueryTest.testQuery.bpmn20.xml
+END

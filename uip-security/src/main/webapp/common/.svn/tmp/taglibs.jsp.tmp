@@ -1,0 +1,28 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@page language="java" pageEncoding="UTF-8"%>
+<%
+	String path = request.getContextPath();
+	String contextPath = request.getScheme() + "://"+ request.getServerName() + ":" + request.getServerPort()+ "/";
+	String basePath = request.getScheme() + "://"+ request.getServerName() + ":" + request.getServerPort()+ path + "/";
+%>
+<!--框架必需start-->
+<script type="text/javascript" src="<%=contextPath%>file/libs/js/jquery.js"></script>
+<script type="text/javascript" src="<%=contextPath%>file/libs/js/language/cn.js"></script>
+<script type="text/javascript" src="<%=contextPath%>file/libs/js/framework.js"></script>
+<<<<<<< .mine
+<script type="text/javascript" src="<%=contextPath%>file/libs/js/myproper.js"></script>
+<link href="<%=contextPath%>file/libs/css/import_basic.css" rel="stylesheet" type="text/css"/>
+<link href="<%=contextPath%>file/libs/css/custom.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" id="skin" prePath="<%=contextPath%>file/"/>
+<link rel="stylesheet" type="text/css" id="customSkin"/>
+=======
+<link href="<%=contextPath%>file/libs/css/import_basic.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" id="skin" prePath="<%=contextPath%>file/" splitMode="true"  href="<%=contextPath%>file/libs/skins/blue/style.css" />
+<link rel="stylesheet" type="text/css" id="customSkin" />
+<!--框架必需end-->
+>>>>>>> .r437
+
+
+
+
+

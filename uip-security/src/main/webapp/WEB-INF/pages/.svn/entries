@@ -1,0 +1,92 @@
+10
+
+dir
+312
+https://192.168.1.150:8443/svn/proper-uip-dev/branches/UIP5-4AH/uip-security/src/main/webapp/WEB-INF/pages
+https://192.168.1.150:8443/svn/proper-uip-dev
+
+
+
+2014-07-24T07:00:21.902172Z
+259
+lichunyan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4c894646-b7a8-c249-a43d-8bea82e427c2
+
+racate
+dir
+
+resourceMocDefinition
+dir
+
+role
+dir
+
+index.jsp
+file
+
+
+
+
+2014-11-04T09:17:00.243246Z
+18c66ba039e7d1b4c3bd279a08f04401
+2013-11-12T03:04:55.209260Z
+2
+zhanghuafeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3571
+
+registrationAuthority
+dir
+
+resourceSet
+dir
+
+resource
+dir
+
+success
+dir
+
+desktop
+dir
+
+usercateRole
+dir
+
+user
+dir
+

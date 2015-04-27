@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask
+END
+ExpressionServiceTaskTest.testBackwardsCompatibleExpression.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/ExpressionServiceTaskTest.testBackwardsCompatibleExpression.bpmn20.xml
+END
+JavaServiceTaskTest.testUnexistingClassDelegation.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/JavaServiceTaskTest.testUnexistingClassDelegation.bpmn20.xml
+END
+JavaServiceTaskTest.testIllegalUseOfResultVariableName.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/JavaServiceTaskTest.testIllegalUseOfResultVariableName.bpmn20.xml
+END
+JavaServiceTaskTest.testExceptionHandling.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/JavaServiceTaskTest.testExceptionHandling.bpmn20.xml
+END
+ExpressionServiceTaskTest.testSetServiceResultToProcessVariables.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/ExpressionServiceTaskTest.testSetServiceResultToProcessVariables.bpmn20.xml
+END
+MethodExpressionServiceTaskTest.testSetServiceResultToProcessVariables.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/MethodExpressionServiceTaskTest.testSetServiceResultToProcessVariables.bpmn20.xml
+END
+JavaServiceTaskTest.testExpressionFieldInjection.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/JavaServiceTaskTest.testExpressionFieldInjection.bpmn20.xml
+END
+JavaServiceTaskTest.testFieldInjection.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/JavaServiceTaskTest.testFieldInjection.bpmn20.xml
+END
+JavaServiceTaskTest.testGetBusinessKeyFromDelegateExecution.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/JavaServiceTaskTest.testGetBusinessKeyFromDelegateExecution.bpmn20.xml
+END
+JavaServiceTaskTest.testJavaServiceDelegation.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/servicetask/JavaServiceTaskTest.testJavaServiceDelegation.bpmn20.xml
+END

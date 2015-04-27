@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/tasks/entity
+END
+TaskResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/tasks/entity/TaskResponse.java
+END
+HistoricTaskResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/api/bpm/tasks/entity/HistoricTaskResponse.java
+END

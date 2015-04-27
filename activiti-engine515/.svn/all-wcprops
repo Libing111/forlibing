@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/.classpath
+END
+mvn package.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/mvn%20package.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/pom.xml
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end
+END
+TerminateEndEventTest.subProcessConcurrentTerminate.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.subProcessConcurrentTerminate.bpmn
+END
+TerminateEndEventTest.testTerminateInSubProcessSequentialConcurrentMultiInstance.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateInSubProcessSequentialConcurrentMultiInstance.bpmn
+END
+TerminateEndEventTest.testProcessTerminate.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testProcessTerminate.bpmn
+END
+TerminateEndEventTest.testTerminateInSubProcessMultiInstance.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateInSubProcessMultiInstance.bpmn
+END
+TerminateEndEventTest.testTerminateInSubProcess.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateInSubProcess.bpmn
+END
+TerminateEndEventTest.testTerminateInCallActivityMulitInstance.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateInCallActivityMulitInstance.bpmn
+END
+TerminateEndEventTest.testTerminateInCallActivity.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateInCallActivity.bpmn
+END
+TerminateEndEventTest.testTerminateInSubProcessConcurrentMultiInstance.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateInSubProcessConcurrentMultiInstance.bpmn
+END
+TerminateEndEventTest.testTerminateInSubProcessConcurrent.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateInSubProcessConcurrent.bpmn
+END
+TerminateEndEventTest.testTerminateInCallActivityConcurrentMulitInstance.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateInCallActivityConcurrentMulitInstance.bpmn
+END
+TerminateEndEventTest.testTerminateInCallActivityConcurrent.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateInCallActivityConcurrent.bpmn
+END
+EndEventTest.testConcurrentEndOfSameProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/EndEventTest.testConcurrentEndOfSameProcess.bpmn20.xml
+END
+TerminateEndEventTest.testTerminateWithCallActivity.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateWithCallActivity.bpmn
+END
+TerminateEndEventTest.testTerminateWithSubProcess.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testTerminateWithSubProcess.bpmn
+END
+TerminateEndEventTest.subProcessNoTerminate.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.subProcessNoTerminate.bpmn
+END
+TerminateEndEventTest.subProcessTerminate.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.subProcessTerminate.bpmn
+END
+TerminateEndEventTest.testCancelActivity.bpmn
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/end/TerminateEndEventTest.testCancelActivity.bpmn
+END

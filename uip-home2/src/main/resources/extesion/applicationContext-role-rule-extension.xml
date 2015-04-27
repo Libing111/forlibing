@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:jee="http://www.springframework.org/schema/jee" xmlns:tx="http://www.springframework.org/schema/tx"
+    xmlns:context="http://www.springframework.org/schema/context" xmlns:aop="http://www.springframework.org/schema/aop"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.0.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd"
+       default-autowire="byName">
+    
+	<bean id="role.filter.rule.all.user" class="com.proper.uip.security.extension.impl.RoleFilterRuleAllUserExtensionImpl">
+		<property name="id" value="role.filter.rule.all.user"/>
+		<property name="name" value="所有人员拥有本角色"/>
+		<property name="code" value="1"/>
+	</bean>
+ 
+	<bean id="role.filter.rule.user" class="com.proper.uip.security.extension.impl.RoleFilterRuleUserExtensionImpl">
+		<property name="id" value="role.filter.rule.user"/>
+		<property name="name" value="只允许以下人员拥有本角色"/>
+		<property name="code" value="3"/>
+	</bean>
+	
+	<bean id="role.filter.rule.all.department" class="com.proper.uip.security.extension.impl.RoleFilterRuleAllDeparmentExtensionImpl">
+		<property name="id" value="role.filter.rule.all.department"/>
+		<property name="name" value="所有部门拥有本角色"/>
+		<property name="code" value="2"/>
+	</bean>
+ 
+	<bean id="role.filter.rule.department" class="com.proper.uip.security.extension.impl.RoleFilterRuleDeparmentExtensionImpl">
+		<property name="id" value="role.filter.rule.department"/>
+		<property name="name" value="只允许以下部门拥有本角色"/>
+		<property name="code" value="4"/>
+	</bean>
+	<bean id="role.filter.rule.post" class="com.proper.uip.security.extension.impl.RoleFilterRulePostExtensionImpl">
+		<property name="id" value="role.filter.rule.post"/>
+		<property name="name" value="只允许以下职务拥有本角色"/>
+		<property name="code" value="5"/>
+	</bean>
+	
+	<bean id="role.filter.rule.all.departmentrole" class="com.proper.uip.security.extension.impl.RuleAllDeparmentRoleExtensionImpl">
+		<property name="id" value="role.filter.rule.all.departmentrole"/>
+		<property name="name" value="内置科室角色"/>
+		<property name="code" value="6"/>
+	</bean>
+</beans>

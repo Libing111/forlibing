@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/resources
+END
+applicationContext-security-cas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/resources/applicationContext-security-cas.xml
+END
+conf.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/resources/conf.properties
+END
+applicationContext-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/resources/applicationContext-service.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/proper-uip-dev/!svn/ver/768/branches/UIP5-4AH/uip-bpm/src/main/resources/applicationContext.xml
+END
+applicationContext-cas-proxy-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/resources/applicationContext-cas-proxy-service.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-bpm/src/main/resources/log4j.properties
+END

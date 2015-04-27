@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate
+END
+CompensateEventTest.testCallActivityCompensationHandler.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate/CompensateEventTest.testCallActivityCompensationHandler.bpmn20.xml
+END
+CompensateEventTest.testCompensateMiSubprocessVariableSnapshots.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate/CompensateEventTest.testCompensateMiSubprocessVariableSnapshots.bpmn20.xml
+END
+CompensateEventTest.testCompensateSubprocess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate/CompensateEventTest.testCompensateSubprocess.bpmn20.xml
+END
+CompensateEventTest.testCompensateScope.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate/CompensateEventTest.testCompensateScope.bpmn20.xml
+END
+CompensateEventTest.testCompensateMiSubprocess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate/CompensateEventTest.testCompensateMiSubprocess.bpmn20.xml
+END
+CompensationHandler.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate/CompensationHandler.bpmn20.xml
+END
+CompensateEventTest.testInvalidActivityRefFails.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate/CompensateEventTest.testInvalidActivityRefFails.bpmn20.xml
+END
+CompensateEventTest.testMultipleCompensationCatchEventsCompensationAttributeMissingFails.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate/CompensateEventTest.testMultipleCompensationCatchEventsCompensationAttributeMissingFails.bpmn20.xml
+END
+CompensateEventTest.testMultipleCompensationCatchEventsFails.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/compensate/CompensateEventTest.testMultipleCompensationCatchEventsFails.bpmn20.xml
+END

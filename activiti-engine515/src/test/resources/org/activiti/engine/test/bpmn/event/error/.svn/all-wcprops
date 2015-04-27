@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error
+END
+BoundaryErrorEventTest.testUncaughtErrorOnCallActivity-parent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testUncaughtErrorOnCallActivity-parent.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnServiceTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnServiceTask.bpmn20.xml
+END
+BoundaryErrorEventTest.subprocess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.subprocess.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorInConcurrentEmbeddedSubprocesses.png
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorInConcurrentEmbeddedSubprocesses.png
+END
+BoundaryErrorEventTest.testCatchErrorOnCallActivity-parent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorOnCallActivity-parent.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateProvidedByDelegateExpressionOnServiceTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 237
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateProvidedByDelegateExpressionOnServiceTask.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnServiceTaskNotCancelActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnServiceTaskNotCancelActivity.bpmn20.xml
+END
+BoundaryErrorEventTest.testThrowErrorWithEmptyErrorCode.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testThrowErrorWithEmptyErrorCode.bpmn20.xml
+END
+ErrorEventSubProcessTest.testErrorCodeTakesPrecedence.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/ErrorEventSubProcessTest.testErrorCodeTakesPrecedence.bpmn20.xml
+END
+BoundaryErrorEventTest.testErrorThrownByJavaDelegateNotCaughtByOtherEventType.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testErrorThrownByJavaDelegateNotCaughtByOtherEventType.bpmn20.xml
+END
+BoundaryErrorEventTest.testDeeplyNestedErrorThrown.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testDeeplyNestedErrorThrown.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorInConcurrentEmbeddedSubprocesses.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorInConcurrentEmbeddedSubprocesses.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnMultiInstanceServiceTaskParallel.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnMultiInstanceServiceTaskParallel.bpmn20.xml
+END
+ErrorEventSubProcessTest.testEventSubprocessTakesPrecedence.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/ErrorEventSubProcessTest.testEventSubprocessTakesPrecedence.bpmn20.xml
+END
+BoundaryErrorEventTest.testThrowErrorWithoutErrorCode.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testThrowErrorWithoutErrorCode.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorOnParallelMultiInstance.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorOnParallelMultiInstance.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnEmbeddedSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnEmbeddedSubProcess.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorInConcurrentEmbeddedSubprocessesThrownByScriptTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorInConcurrentEmbeddedSubprocessesThrownByScriptTask.bpmn20.xml
+END
+ErrorEventSubProcessTest.testCatchErrorThrownByScriptTaskInTopLevelProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/ErrorEventSubProcessTest.testCatchErrorThrownByScriptTaskInTopLevelProcess.bpmn20.xml
+END
+ErrorEventSubProcessTest.testThrowErrorInScriptTaskInsideCallActivitiCatchInTopLevelProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/ErrorEventSubProcessTest.testThrowErrorInScriptTaskInsideCallActivitiCatchInTopLevelProcess.bpmn20.xml
+END
+ErrorEventSubProcessTest.testCatchErrorThrownByScriptTaskInsideSubProcessInTopLevelProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/ErrorEventSubProcessTest.testCatchErrorThrownByScriptTaskInsideSubProcessInTopLevelProcess.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorOnEmbeddedSubprocess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorOnEmbeddedSubprocess.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnCallActivity-child.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnCallActivity-child.bpmn20.xml
+END
+BoundaryErrorEventTest.testUncaughtErrorThrownByJavaDelegateOnCallActivity-parent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testUncaughtErrorThrownByJavaDelegateOnCallActivity-parent.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnMultiInstanceServiceTaskSequential.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnMultiInstanceServiceTaskSequential.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnCallActivity-parent.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnCallActivity-parent.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorOnSequentialMultiInstance.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorOnSequentialMultiInstance.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnServiceTaskWithErrorCode.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnServiceTaskWithErrorCode.bpmn20.xml
+END
+BoundaryErrorEventTest.testDeeplyNestedErrorThrownOnlyAutomaticSteps.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testDeeplyNestedErrorThrownOnlyAutomaticSteps.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorOnEmbeddedSubprocessWithEmptyErrorCode.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorOnEmbeddedSubprocessWithEmptyErrorCode.bpmn20.xml
+END
+BoundaryErrorEventTest.testUncaughtErrorOnScriptTaskWithEmptyErrorEventDefinition.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testUncaughtErrorOnScriptTaskWithEmptyErrorEventDefinition.bpmn20.xml
+END
+BoundaryErrorEventTest.testUncaughtErrorOnScriptTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testUncaughtErrorOnScriptTask.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorOnScriptTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorOnScriptTask.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorOfInnerSubprocessOnOuterSubprocess.png
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorOfInnerSubprocessOnOuterSubprocess.png
+END
+BoundaryErrorEventTest.testCatchErrorThrownByDelegateExpressionOnServiceTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByDelegateExpressionOnServiceTask.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorOnEmbeddedSubprocessWithoutErrorCode.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorOnEmbeddedSubprocessWithoutErrorCode.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByCallActivityOnCallActivity.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByCallActivityOnCallActivity.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByCallActivityOnSubprocess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByCallActivityOnSubprocess.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByExpressionOnServiceTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByExpressionOnServiceTask.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorOfInnerSubprocessOnOuterSubprocess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorOfInnerSubprocessOnOuterSubprocess.bpmn20.xml
+END
+ErrorEventSubProcessTest.testCatchErrorInEmbeddedSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/ErrorEventSubProcessTest.testCatchErrorInEmbeddedSubProcess.bpmn20.xml
+END
+BoundaryErrorEventTest.testConcurrentExecutionsInterruptedOnDestroyScope.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testConcurrentExecutionsInterruptedOnDestroyScope.bpmn20.xml
+END
+ErrorEventSubProcessTest.testCatchErrorThrownByScriptTaskInEmbeddedSubProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/ErrorEventSubProcessTest.testCatchErrorThrownByScriptTaskInEmbeddedSubProcess.bpmn20.xml
+END
+ErrorEventSubProcessTest.testCatchErrorThrownByScriptTaskInEmbeddedSubProcessWithErrorCode.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/ErrorEventSubProcessTest.testCatchErrorThrownByScriptTaskInEmbeddedSubProcessWithErrorCode.bpmn20.xml
+END
+BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnEmbeddedSubProcessInduction.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.testCatchErrorThrownByJavaDelegateOnEmbeddedSubProcessInduction.bpmn20.xml
+END
+BoundaryErrorEventTest.subprocess2ndLevel.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/bpmn/event/error/BoundaryErrorEventTest.subprocess2ndLevel.bpmn20.xml
+END

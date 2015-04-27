@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form
+END
+FormServiceTest.testSubmitStartFormDataWithBusinessKey.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/FormServiceTest.testSubmitStartFormDataWithBusinessKey.bpmn20.xml
+END
+start.form
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/start.form
+END
+FormServiceTest.testInvalidFormKeyReference.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/FormServiceTest.testInvalidFormKeyReference.bpmn20.xml
+END
+FormsProcess.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/FormsProcess.bpmn20.xml
+END
+task.form
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/task.form
+END
+FormPropertyDefaultValueTest.testDefaultValue.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/FormPropertyDefaultValueTest.testDefaultValue.bpmn20.xml
+END
+FormServiceTest.testFormPropertyExpression.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/FormServiceTest.testFormPropertyExpression.bpmn20.xml
+END
+FormPropertyDefaultValueTest.testStartFormDefaultValue.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/FormPropertyDefaultValueTest.testStartFormDefaultValue.bpmn20.xml
+END
+FormServiceTest.testGetTaskFormKeyWithExpression.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/FormServiceTest.testGetTaskFormKeyWithExpression.bpmn20.xml
+END
+FormServiceTest.testFormPropertyHandling.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/FormServiceTest.testFormPropertyHandling.bpmn20.xml
+END
+FormServiceTest.testFormPropertyDetails.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/form/FormServiceTest.testFormPropertyDetails.bpmn20.xml
+END

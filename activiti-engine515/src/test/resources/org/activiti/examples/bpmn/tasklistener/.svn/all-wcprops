@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener
+END
+CustomTaskAssignmentTest.testCandidateGroupAssignment.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener/CustomTaskAssignmentTest.testCandidateGroupAssignment.bpmn20.xml
+END
+CustomTaskAssignmentTest.testReleaseTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener/CustomTaskAssignmentTest.testReleaseTask.bpmn20.xml
+END
+TaskListenerTest.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener/TaskListenerTest.bpmn20.xml
+END
+CustomTaskAssignmentTest.testCandidateUserAssignment.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener/CustomTaskAssignmentTest.testCandidateUserAssignment.bpmn20.xml
+END
+CustomTaskAssignmentTest.testAssigneeAssignment.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener/CustomTaskAssignmentTest.testAssigneeAssignment.bpmn20.xml
+END
+CustomTaskAssignmentTest.testOverwriteExistingAssignmentsFromVariable.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener/CustomTaskAssignmentTest.testOverwriteExistingAssignmentsFromVariable.bpmn20.xml
+END
+ScriptTaskListenerTest.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener/ScriptTaskListenerTest.bpmn20.xml
+END
+CustomTaskAssignmentTest.testOverwriteExistingAssignments.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener/CustomTaskAssignmentTest.testOverwriteExistingAssignments.bpmn20.xml
+END
+TaskListenerTest.testTaskListenersOnDelete.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/examples/bpmn/tasklistener/TaskListenerTest.testTaskListenersOnDelete.bpmn20.xml
+END

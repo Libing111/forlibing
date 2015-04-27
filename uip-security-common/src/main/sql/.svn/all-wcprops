@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/sql
+END
+update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/sql/update.sql
+END
+install.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/sql/install.sql
+END

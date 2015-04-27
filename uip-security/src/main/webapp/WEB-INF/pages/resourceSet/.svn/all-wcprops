@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security/src/main/webapp/WEB-INF/pages/resourceSet
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/proper-uip-dev/!svn/ver/984/branches/UIP5-4AH/uip-security/src/main/webapp/WEB-INF/pages/resourceSet/index.jsp
+END
+add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security/src/main/webapp/WEB-INF/pages/resourceSet/add.jsp
+END
+update.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security/src/main/webapp/WEB-INF/pages/resourceSet/update.jsp
+END

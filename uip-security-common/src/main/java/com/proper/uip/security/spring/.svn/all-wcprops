@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/spring
+END
+SecurityFilterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/spring/SecurityFilterImpl.java
+END
+UserDetailsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/spring/UserDetailsImpl.java
+END
+UserDetailsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/spring/UserDetailsServiceImpl.java
+END
+SecurityMetadataSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/spring/SecurityMetadataSourceImpl.java
+END
+AccessDecisionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-security-common/src/main/java/com/proper/uip/security/spring/AccessDecisionManagerImpl.java
+END

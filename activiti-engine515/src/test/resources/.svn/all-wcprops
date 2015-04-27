@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources
+END
+activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/activiti.cfg.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/log4j.properties
+END
+bitronix-default-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/bitronix-default-config.properties
+END

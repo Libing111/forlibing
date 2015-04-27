@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/.classpath
+END
+mvn package.bat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/mvn%20package.bat
+END
+mvn deploy.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/mvn%20deploy.bat
+END
+.mymetadata
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/.mymetadata
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/pom.xml
+END
+mvn install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/proper-uip-dev/!svn/ver/281/branches/UIP5-4AH/uip-common-utils/mvn%20install.bat
+END

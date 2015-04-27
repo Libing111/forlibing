@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/proper-uip-dev/!svn/ver/393/branches/UIP5-4AH/uip-desktop/src/main/java/com/proper/uip/desktop/rest
+END
+QuickModuleRestController.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/proper-uip-dev/!svn/ver/626/branches/UIP5-4AH/uip-desktop/src/main/java/com/proper/uip/desktop/rest/QuickModuleRestController.java
+END
+ModuleRestController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/393/branches/UIP5-4AH/uip-desktop/src/main/java/com/proper/uip/desktop/rest/ModuleRestController.java
+END
+PagingRestController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/proper-uip-dev/!svn/ver/393/branches/UIP5-4AH/uip-desktop/src/main/java/com/proper/uip/desktop/rest/PagingRestController.java
+END

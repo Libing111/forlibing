@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/idgenerator
+END
+uuidgenerator.test.activiti.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/idgenerator/uuidgenerator.test.activiti.cfg.xml
+END
+UuidGeneratorTest.testUuidGeneratorUsage.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/standalone/idgenerator/UuidGeneratorTest.testUuidGeneratorUsage.bpmn20.xml
+END

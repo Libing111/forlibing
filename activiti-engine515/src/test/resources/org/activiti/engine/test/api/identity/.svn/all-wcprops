@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/identity
+END
+ProcessInstanceIdentityLinkTest.testSetAuthenticatedUserWithNoWaitStates.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/identity/ProcessInstanceIdentityLinkTest.testSetAuthenticatedUserWithNoWaitStates.bpmn20.xml
+END
+ProcessInstanceIdentityLinkTest.testSetAuthenticatedUserAndCompleteLastTask.bpmn20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/proper-uip-dev/!svn/ver/341/branches/UIP5-4AH/activiti-engine/src/test/resources/org/activiti/engine/test/api/identity/ProcessInstanceIdentityLinkTest.testSetAuthenticatedUserAndCompleteLastTask.bpmn20.xml
+END

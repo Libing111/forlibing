@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/entity
+END
+DefinitionsCategoryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/entity/DefinitionsCategoryNode.java
+END
+StatisticsDataEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/entity/StatisticsDataEntity.java
+END
+IdentityLinkEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/entity/IdentityLinkEntity.java
+END
+UserTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/entity/UserTreeNode.java
+END
+StatisticsEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/proper-uip-dev/!svn/ver/859/branches/UIP5-4AH/uip-bpm-api/src/main/java/com/proper/uip/bpm/definitions/entity/StatisticsEntity.java
+END

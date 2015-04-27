@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 1.6.0_13
+Class-Path: hibernate-entitymanager-4.2.1.Final.jar jboss-logging-3.1.
+ 0.GA.jar hibernate-core-4.2.1.Final.jar antlr-2.7.7.jar dom4j-1.6.1.j
+ ar jboss-transaction-api_1.1_spec-1.0.1.Final.jar hibernate-jpa-2.0-a
+ pi-1.0.1.Final.jar javassist-3.15.0-GA.jar hibernate-commons-annotati
+ ons-4.0.1.Final.jar servlet-api-2.5.jar json-lib-2.4-jdk15.jar common
+ s-beanutils-1.8.0.jar commons-collections-3.2.1.jar commons-lang-2.4.
+ jar commons-logging-1.1.1.jar ezmorph-1.0.6.jar uip-common-utils-3.0-
+ 20150407.092029-10.jar spring-beans-3.2.0.RELEASE.jar spring-core-3.2
+ .0.RELEASE.jar spring-context-support-3.2.0.RELEASE.jar spring-contex
+ t-3.2.0.RELEASE.jar spring-aop-3.2.0.RELEASE.jar aopalliance-1.0.jar 
+ spring-expression-3.2.0.RELEASE.jar jackson-core-asl-1.9.11.jar jacks
+ on-mapper-lgpl-1.9.11.jar jackson-core-lgpl-1.9.11.jar
+Specification-Title: uip-security-api
+Specification-Version: 3.0-SNAPSHOT
+Specification-Vendor: Proper
+Implementation-Title: uip-security-api
+Implementation-Version: 3.0-SNAPSHOT
+Implementation-Vendor-Id: com.proper.uip
+Implementation-Vendor: Proper
+Created-By: Maven Integration for Eclipse
+Implementation-Revision: 
+

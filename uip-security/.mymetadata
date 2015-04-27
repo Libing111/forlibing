@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="uip-security"
+  id="myeclipse.1329109576709"
+  context-root="/security"
+  j2ee-spec="5.0"
+  archive="uip-security.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,60 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+    <parent>
+		<groupId>com.proper.uip</groupId>
+		<artifactId>proper-uip-root</artifactId>
+		<relativePath>../proper-uip-root</relativePath>
+		<version>3.0-SNAPSHOT</version>
+	</parent>
+	
+	<name>uip-common-utils</name>
+	<artifactId>uip-common-utils</artifactId>
+	<packaging>jar</packaging>
+
+
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-beans</artifactId>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context-support</artifactId>
+		</dependency>
+		
+		<!-- jpa -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-entitymanager</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>net.sf.json-lib</groupId>
+			<artifactId>json-lib</artifactId>
+			<classifier>jdk15</classifier>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-core-asl</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-mapper-lgpl</artifactId>
+		</dependency>
+	</dependencies>
+	
+	<scm>
+		<connection>scm:svn:https://svn.proper.com:8443/svn/proper-uip-dev/trunk/uip-common-utils/</connection>  
+		<developerConnection>scm:svn:https://svn.proper.com:8443/svn/proper-uip-dev/trunk/uip-common-utils/</developerConnection>
+	</scm>
+	
+</project>
